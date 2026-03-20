@@ -8,7 +8,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-st.sidebar.image("logo.png", width=200)
+st.logo("logo.png")
 render_common_styles()
 
 st.html("""

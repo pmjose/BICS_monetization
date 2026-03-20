@@ -40,17 +40,23 @@ SIDEBAR_CSS = """
     [data-testid="stSidebar"] > div:first-child { position: relative; z-index: 1; }
     
     /* LOGO STYLING */
-    [data-testid="stSidebar"] [data-testid="stImage"] {
-        padding: 1rem 1rem 0.5rem 1rem !important;
+    [data-testid="stLogo"] {
+        max-height: none !important;
+        height: auto !important;
+        padding: 0.75rem 1rem !important;
     }
-    [data-testid="stSidebar"] [data-testid="stImage"] img {
+    [data-testid="stLogo"] img {
+        max-height: 80px !important;
+        height: 80px !important;
+        width: auto !important;
+        object-fit: contain !important;
         border-radius: 12px !important;
         padding: 10px !important;
         background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%) !important;
         box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3), 0 0 0 1px rgba(255, 255, 255, 0.1) !important;
         transition: all 0.3s ease !important;
     }
-    [data-testid="stSidebar"] [data-testid="stImage"] img:hover {
+    [data-testid="stLogo"] img:hover {
         transform: scale(1.05);
         box-shadow: 0 8px 30px rgba(8, 145, 178, 0.4), 0 0 0 2px rgba(8, 145, 178, 0.3) !important;
     }

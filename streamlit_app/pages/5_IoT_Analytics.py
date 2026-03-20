@@ -7,7 +7,7 @@ from utils.styles import render_common_styles, render_page_header, BICS_COLORS
 
 st.set_page_config(page_title="IoT Analytics | BICS", page_icon=":material/sensors:", layout="wide")
 
-st.sidebar.image("logo.png", width=200)
+st.logo("logo.png")
 render_common_styles()
 
 st.html("""
