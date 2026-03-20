@@ -116,7 +116,7 @@ streamlit_app/
 │   ├── __init__.py
 │   └── styles.py                 # Shared BICS styles and components
 ├── environment.yml               # Snowflake dependencies
-└── logo.jpg
+└── logo.png
 ```
 
 ## Target Users

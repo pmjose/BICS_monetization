@@ -4,7 +4,7 @@ from utils.styles import render_common_styles, render_page_header
 
 st.set_page_config(page_title="Data Explorer | BICS", page_icon=":material/search:", layout="wide")
 
-st.logo("logo.jpg")
+st.logo("logo.png")
 render_common_styles()
 render_page_header("Data Explorer", "Browse and filter Belgian telco mobility data")
 

@@ -6,7 +6,7 @@ from utils.styles import render_common_styles, render_page_header, BICS_COLORS
 
 st.set_page_config(page_title="IoT Device Map | BICS", page_icon=":material/location_on:", layout="wide")
 
-st.logo("logo.jpg")
+st.logo("logo.png")
 render_common_styles()
 render_page_header("IoT Device Map", "Geographic view of BICS IoT device deployments across Belgium")
 

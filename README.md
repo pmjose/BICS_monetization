@@ -272,7 +272,7 @@ BICS_monetization/
 └── streamlit_app/
     ├── streamlit_app.py                   # Main entry point + data product catalog
     ├── environment.yml                    # Snowflake dependencies
-    ├── logo.jpg
+    ├── logo.png
     ├── pages/
     │   ├── 0_Market_Intelligence.py       # Market strategy and pricing
     │   ├── 1_Data_Explorer.py             # Data browsing and filtering
