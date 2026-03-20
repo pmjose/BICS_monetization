@@ -1,0 +1,1001 @@
+device_id,industry,device_type,connectivity_type,sim_type,country,city,site_name,latitude,longitude
+BICS-AGR-00001,Agriculture,Weather Station,5G,iSIM,Belgium,Hasselt,Limburg Orchards,50.94875,5.347836
+BICS-AGR-00002,Agriculture,Weather Station,LTE-M,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.656282,5.808062
+BICS-AGR-00003,Agriculture,Livestock Tracker,4G,Traditional SIM,Belgium,Kortrijk,Leie Valley Agriculture,50.821439,3.255492
+BICS-AGR-00004,Agriculture,Weather Station,NB-IoT,eSIM,Belgium,Leuven,Brabant Research Farm,50.88996,4.681313
+BICS-AGR-00005,Agriculture,Weather Station,NB-IoT,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.709533,5.81522
+BICS-AGR-00006,Agriculture,Livestock Tracker,LTE-M,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.689434,5.843025
+BICS-AGR-00007,Agriculture,GPS Tractor Tracker,NB-IoT,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.677526,5.825781
+BICS-AGR-00008,Agriculture,Soil Moisture Sensor,4G,eSIM,Belgium,Namur,Wallonia Grain Belt,50.454246,4.856084
+BICS-AGR-00009,Agriculture,Soil Moisture Sensor,NB-IoT,eSIM,Belgium,Namur,Wallonia Grain Belt,50.460466,4.869102
+BICS-AGR-00010,Agriculture,Irrigation Controller,4G,eSIM,Belgium,Namur,Wallonia Grain Belt,50.450105,4.862007
+BICS-AGR-00011,Agriculture,Greenhouse Climate Sensor,NB-IoT,iSIM,Belgium,Hasselt,Limburg Orchards,50.910853,5.349925
+BICS-AGR-00012,Agriculture,Livestock Tracker,NB-IoT,Traditional SIM,Belgium,Namur,Wallonia Grain Belt,50.471311,4.835329
+BICS-AGR-00013,Agriculture,GPS Tractor Tracker,NB-IoT,Traditional SIM,Belgium,Namur,Wallonia Grain Belt,50.485407,4.885113
+BICS-AGR-00014,Agriculture,Soil Moisture Sensor,NB-IoT,iSIM,Belgium,Hasselt,Limburg Orchards,50.935255,5.343037
+BICS-AGR-00015,Agriculture,Weather Station,4G,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.683521,5.820364
+BICS-AGR-00016,Agriculture,Livestock Tracker,LTE-M,iSIM,Belgium,Leuven,Brabant Research Farm,50.887433,4.679784
+BICS-AGR-00017,Agriculture,GPS Tractor Tracker,LTE-M,iSIM,Belgium,Bruges,West Flanders Farmlands,51.216219,3.217176
+BICS-AGR-00018,Agriculture,GPS Tractor Tracker,NB-IoT,eSIM,Belgium,Leuven,Brabant Research Farm,50.883618,4.71435
+BICS-AGR-00019,Agriculture,GPS Tractor Tracker,4G,Traditional SIM,Belgium,Bruges,West Flanders Farmlands,51.235653,3.210665
+BICS-AGR-00020,Agriculture,Livestock Tracker,LTE-M,eSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.829337,3.269687
+BICS-AGR-00021,Agriculture,Greenhouse Climate Sensor,LTE-M,eSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.823298,3.279327
+BICS-AGR-00022,Agriculture,GPS Tractor Tracker,5G,eSIM,Belgium,Hasselt,Limburg Orchards,50.952817,5.3387
+BICS-AGR-00023,Agriculture,Greenhouse Climate Sensor,5G,iSIM,Belgium,Bruges,West Flanders Farmlands,51.198418,3.230943
+BICS-AGR-00024,Agriculture,Irrigation Controller,NB-IoT,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.673969,5.82646
+BICS-AGR-00025,Agriculture,Irrigation Controller,LTE-M,Traditional SIM,Belgium,Hasselt,Limburg Orchards,50.924224,5.345614
+BICS-AGR-00026,Agriculture,Livestock Tracker,NB-IoT,eSIM,Belgium,Bruges,West Flanders Farmlands,51.199797,3.244255
+BICS-AGR-00027,Agriculture,Greenhouse Climate Sensor,NB-IoT,eSIM,Belgium,Hasselt,Limburg Orchards,50.926716,5.325005
+BICS-AGR-00028,Agriculture,Livestock Tracker,NB-IoT,iSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.829753,3.272208
+BICS-AGR-00029,Agriculture,Livestock Tracker,NB-IoT,iSIM,Belgium,Arlon,Luxembourg Province Dairy,49.68577,5.831229
+BICS-AGR-00030,Agriculture,Livestock Tracker,NB-IoT,eSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.835016,3.294594
+BICS-AGR-00031,Agriculture,Soil Moisture Sensor,NB-IoT,iSIM,Belgium,Hasselt,Limburg Orchards,50.944127,5.346093
+BICS-AGR-00032,Agriculture,Weather Station,LTE-M,eSIM,Belgium,Bruges,West Flanders Farmlands,51.213558,3.23745
+BICS-AGR-00033,Agriculture,GPS Tractor Tracker,NB-IoT,eSIM,Belgium,Hasselt,Limburg Orchards,50.941504,5.331706
+BICS-AGR-00034,Agriculture,Soil Moisture Sensor,LTE-M,eSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.815949,3.284217
+BICS-AGR-00035,Agriculture,Greenhouse Climate Sensor,LTE-M,Traditional SIM,Belgium,Hasselt,Limburg Orchards,50.928056,5.338683
+BICS-AGR-00036,Agriculture,GPS Tractor Tracker,NB-IoT,eSIM,Belgium,Bruges,West Flanders Farmlands,51.1967,3.210114
+BICS-AGR-00037,Agriculture,Livestock Tracker,NB-IoT,eSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.797934,3.282116
+BICS-AGR-00038,Agriculture,Livestock Tracker,LTE-M,Traditional SIM,Belgium,Arlon,Luxembourg Province Dairy,49.67558,5.822242
+BICS-AGR-00039,Agriculture,Weather Station,NB-IoT,Traditional SIM,Belgium,Bruges,West Flanders Farmlands,51.210162,3.231904
+BICS-AGR-00040,Agriculture,Weather Station,LTE-M,Traditional SIM,Belgium,Namur,Wallonia Grain Belt,50.480641,4.860767
+BICS-AGR-00041,Agriculture,Irrigation Controller,4G,Traditional SIM,Belgium,Arlon,Luxembourg Province Dairy,49.706969,5.828993
+BICS-AGR-00042,Agriculture,Greenhouse Climate Sensor,LTE-M,eSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.839761,3.309694
+BICS-AGR-00043,Agriculture,Weather Station,NB-IoT,Traditional SIM,Belgium,Leuven,Brabant Research Farm,50.897994,4.694167
+BICS-AGR-00044,Agriculture,Irrigation Controller,LTE-M,Traditional SIM,Belgium,Hasselt,Limburg Orchards,50.911973,5.373875
+BICS-AGR-00045,Agriculture,Soil Moisture Sensor,LTE-M,eSIM,Belgium,Leuven,Brabant Research Farm,50.903081,4.696618
+BICS-AGR-00046,Agriculture,Irrigation Controller,NB-IoT,eSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.82335,3.281866
+BICS-AGR-00047,Agriculture,Soil Moisture Sensor,NB-IoT,iSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.809719,3.261396
+BICS-AGR-00048,Agriculture,Irrigation Controller,LTE-M,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.691173,5.840664
+BICS-AGR-00049,Agriculture,Soil Moisture Sensor,LTE-M,eSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.819732,3.271292
+BICS-AGR-00050,Agriculture,Greenhouse Climate Sensor,4G,eSIM,Belgium,Namur,Wallonia Grain Belt,50.490447,4.88084
+BICS-AGR-00051,Agriculture,Soil Moisture Sensor,LTE-M,iSIM,Belgium,Bruges,West Flanders Farmlands,51.216112,3.230279
+BICS-AGR-00052,Agriculture,Greenhouse Climate Sensor,4G,eSIM,Belgium,Leuven,Brabant Research Farm,50.87401,4.688601
+BICS-AGR-00053,Agriculture,Irrigation Controller,NB-IoT,eSIM,Belgium,Namur,Wallonia Grain Belt,50.453506,4.876359
+BICS-AGR-00054,Agriculture,Weather Station,NB-IoT,eSIM,Belgium,Leuven,Brabant Research Farm,50.881279,4.69734
+BICS-AGR-00055,Agriculture,GPS Tractor Tracker,NB-IoT,iSIM,Belgium,Bruges,West Flanders Farmlands,51.199841,3.228574
+BICS-AGR-00056,Agriculture,Greenhouse Climate Sensor,4G,eSIM,Belgium,Namur,Wallonia Grain Belt,50.489095,4.885321
+BICS-AGR-00057,Agriculture,Livestock Tracker,LTE-M,eSIM,Belgium,Bruges,West Flanders Farmlands,51.224517,3.2106
+BICS-AGR-00058,Agriculture,GPS Tractor Tracker,NB-IoT,eSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.799046,3.249791
+BICS-AGR-00059,Agriculture,Irrigation Controller,LTE-M,Traditional SIM,Belgium,Bruges,West Flanders Farmlands,51.229178,3.217505
+BICS-AGR-00060,Agriculture,Weather Station,LTE-M,Traditional SIM,Belgium,Arlon,Luxembourg Province Dairy,49.658621,5.823854
+BICS-AGR-00061,Agriculture,Soil Moisture Sensor,NB-IoT,eSIM,Belgium,Leuven,Brabant Research Farm,50.859977,4.70612
+BICS-AGR-00062,Agriculture,Irrigation Controller,NB-IoT,eSIM,Belgium,Hasselt,Limburg Orchards,50.921515,5.329716
+BICS-AGR-00063,Agriculture,Weather Station,NB-IoT,iSIM,Belgium,Namur,Wallonia Grain Belt,50.477418,4.87654
+BICS-AGR-00064,Agriculture,Irrigation Controller,LTE-M,iSIM,Belgium,Leuven,Brabant Research Farm,50.860185,4.681763
+BICS-AGR-00065,Agriculture,Livestock Tracker,LTE-M,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.713372,5.836106
+BICS-AGR-00066,Agriculture,Soil Moisture Sensor,LTE-M,Traditional SIM,Belgium,Namur,Wallonia Grain Belt,50.48899,4.886812
+BICS-AGR-00067,Agriculture,Weather Station,LTE-M,iSIM,Belgium,Bruges,West Flanders Farmlands,51.204451,3.221653
+BICS-AGR-00068,Agriculture,Weather Station,NB-IoT,eSIM,Belgium,Leuven,Brabant Research Farm,50.876344,4.727826
+BICS-AGR-00069,Agriculture,Soil Moisture Sensor,LTE-M,eSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.828044,3.266577
+BICS-AGR-00070,Agriculture,GPS Tractor Tracker,NB-IoT,eSIM,Belgium,Namur,Wallonia Grain Belt,50.448997,4.875645
+BICS-AGR-00071,Agriculture,GPS Tractor Tracker,LTE-M,Traditional SIM,Belgium,Hasselt,Limburg Orchards,50.957408,5.34955
+BICS-AGR-00072,Agriculture,Weather Station,LTE-M,eSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.835415,3.290041
+BICS-AGR-00073,Agriculture,Livestock Tracker,NB-IoT,eSIM,Belgium,Namur,Wallonia Grain Belt,50.482508,4.880564
+BICS-AGR-00074,Agriculture,GPS Tractor Tracker,LTE-M,Traditional SIM,Belgium,Bruges,West Flanders Farmlands,51.229069,3.218804
+BICS-AGR-00075,Agriculture,Irrigation Controller,4G,iSIM,Belgium,Hasselt,Limburg Orchards,50.945185,5.356041
+BICS-AGR-00076,Agriculture,Irrigation Controller,4G,Traditional SIM,Belgium,Hasselt,Limburg Orchards,50.918024,5.375618
+BICS-AGR-00077,Agriculture,Soil Moisture Sensor,NB-IoT,Traditional SIM,Belgium,Kortrijk,Leie Valley Agriculture,50.850568,3.266999
+BICS-AGR-00078,Agriculture,Greenhouse Climate Sensor,LTE-M,iSIM,Belgium,Arlon,Luxembourg Province Dairy,49.673014,5.832726
+BICS-AGR-00079,Agriculture,Irrigation Controller,4G,eSIM,Belgium,Namur,Wallonia Grain Belt,50.469115,4.892854
+BICS-AGR-00080,Agriculture,GPS Tractor Tracker,LTE-M,iSIM,Belgium,Namur,Wallonia Grain Belt,50.469393,4.865392
+BICS-AGR-00081,Agriculture,Weather Station,4G,iSIM,Belgium,Arlon,Luxembourg Province Dairy,49.682334,5.796125
+BICS-AGR-00082,Agriculture,Weather Station,LTE-M,eSIM,Belgium,Namur,Wallonia Grain Belt,50.51871,4.874103
+BICS-AGR-00083,Agriculture,Weather Station,LTE-M,Traditional SIM,Belgium,Leuven,Brabant Research Farm,50.878188,4.712922
+BICS-AGR-00084,Agriculture,GPS Tractor Tracker,NB-IoT,eSIM,Belgium,Leuven,Brabant Research Farm,50.877702,4.687984
+BICS-AGR-00085,Agriculture,GPS Tractor Tracker,4G,Traditional SIM,Belgium,Namur,Wallonia Grain Belt,50.455466,4.884181
+BICS-AGR-00086,Agriculture,GPS Tractor Tracker,4G,eSIM,Belgium,Hasselt,Limburg Orchards,50.945249,5.335901
+BICS-AGR-00087,Agriculture,Soil Moisture Sensor,NB-IoT,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.665261,5.838657
+BICS-AGR-00088,Agriculture,GPS Tractor Tracker,NB-IoT,eSIM,Belgium,Namur,Wallonia Grain Belt,50.484041,4.868741
+BICS-AGR-00089,Agriculture,Livestock Tracker,4G,eSIM,Belgium,Leuven,Brabant Research Farm,50.882861,4.715159
+BICS-AGR-00090,Agriculture,Irrigation Controller,NB-IoT,Traditional SIM,Belgium,Kortrijk,Leie Valley Agriculture,50.83968,3.271266
+BICS-AGR-00091,Agriculture,Irrigation Controller,LTE-M,Traditional SIM,Belgium,Arlon,Luxembourg Province Dairy,49.68272,5.834985
+BICS-AGR-00092,Agriculture,Weather Station,NB-IoT,eSIM,Belgium,Leuven,Brabant Research Farm,50.888398,4.695744
+BICS-AGR-00093,Agriculture,Greenhouse Climate Sensor,4G,Traditional SIM,Belgium,Leuven,Brabant Research Farm,50.873338,4.728017
+BICS-AGR-00094,Agriculture,Weather Station,LTE-M,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.683777,5.799506
+BICS-AGR-00095,Agriculture,Weather Station,NB-IoT,iSIM,Belgium,Hasselt,Limburg Orchards,50.939493,5.336897
+BICS-AGR-00096,Agriculture,Weather Station,LTE-M,Traditional SIM,Belgium,Bruges,West Flanders Farmlands,51.20172,3.201052
+BICS-AGR-00097,Agriculture,Soil Moisture Sensor,NB-IoT,eSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.846392,3.270065
+BICS-AGR-00098,Agriculture,Soil Moisture Sensor,4G,eSIM,Belgium,Leuven,Brabant Research Farm,50.875074,4.721485
+BICS-AGR-00099,Agriculture,GPS Tractor Tracker,4G,iSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.828997,3.271426
+BICS-AGR-00100,Agriculture,Irrigation Controller,NB-IoT,eSIM,Belgium,Namur,Wallonia Grain Belt,50.469368,4.866918
+BICS-AGR-00101,Agriculture,GPS Tractor Tracker,LTE-M,eSIM,Belgium,Bruges,West Flanders Farmlands,51.202843,3.216165
+BICS-AGR-00102,Agriculture,Livestock Tracker,5G,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.685154,5.831117
+BICS-AGR-00103,Agriculture,Weather Station,NB-IoT,Traditional SIM,Belgium,Bruges,West Flanders Farmlands,51.200607,3.184165
+BICS-AGR-00104,Agriculture,Irrigation Controller,5G,Traditional SIM,Belgium,Kortrijk,Leie Valley Agriculture,50.825728,3.281031
+BICS-AGR-00105,Agriculture,Soil Moisture Sensor,4G,iSIM,Belgium,Arlon,Luxembourg Province Dairy,49.690353,5.805833
+BICS-AGR-00106,Agriculture,Soil Moisture Sensor,4G,Traditional SIM,Belgium,Bruges,West Flanders Farmlands,51.202548,3.211522
+BICS-AGR-00107,Agriculture,Greenhouse Climate Sensor,LTE-M,eSIM,Belgium,Hasselt,Limburg Orchards,50.95145,5.360355
+BICS-AGR-00108,Agriculture,Irrigation Controller,LTE-M,Traditional SIM,Belgium,Arlon,Luxembourg Province Dairy,49.698404,5.849202
+BICS-AGR-00109,Agriculture,GPS Tractor Tracker,NB-IoT,eSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.816421,3.269192
+BICS-AGR-00110,Agriculture,Irrigation Controller,NB-IoT,Traditional SIM,Belgium,Hasselt,Limburg Orchards,50.927376,5.336949
+BICS-AGR-00111,Agriculture,Weather Station,NB-IoT,iSIM,Belgium,Hasselt,Limburg Orchards,50.954059,5.330991
+BICS-AGR-00112,Agriculture,Irrigation Controller,LTE-M,iSIM,Belgium,Hasselt,Limburg Orchards,50.910199,5.342741
+BICS-AGR-00113,Agriculture,Greenhouse Climate Sensor,NB-IoT,Traditional SIM,Belgium,Arlon,Luxembourg Province Dairy,49.699224,5.81364
+BICS-AGR-00114,Agriculture,Irrigation Controller,LTE-M,iSIM,Belgium,Namur,Wallonia Grain Belt,50.467445,4.864427
+BICS-AGR-00115,Agriculture,Weather Station,LTE-M,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.691928,5.793423
+BICS-AGR-00116,Agriculture,Greenhouse Climate Sensor,LTE-M,Traditional SIM,Belgium,Leuven,Brabant Research Farm,50.908494,4.714926
+BICS-AGR-00117,Agriculture,Soil Moisture Sensor,5G,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.671251,5.817571
+BICS-AGR-00118,Agriculture,GPS Tractor Tracker,4G,iSIM,Belgium,Hasselt,Limburg Orchards,50.923589,5.332964
+BICS-AGR-00119,Agriculture,Soil Moisture Sensor,5G,eSIM,Belgium,Hasselt,Limburg Orchards,50.933259,5.338614
+BICS-AGR-00120,Agriculture,Irrigation Controller,NB-IoT,eSIM,Belgium,Leuven,Brabant Research Farm,50.871365,4.685301
+BICS-AGR-00121,Agriculture,Livestock Tracker,LTE-M,eSIM,Belgium,Leuven,Brabant Research Farm,50.907679,4.690533
+BICS-AGR-00122,Agriculture,Weather Station,NB-IoT,Traditional SIM,Belgium,Leuven,Brabant Research Farm,50.875629,4.712186
+BICS-AGR-00123,Agriculture,Greenhouse Climate Sensor,LTE-M,Traditional SIM,Belgium,Kortrijk,Leie Valley Agriculture,50.845499,3.272986
+BICS-AGR-00124,Agriculture,Weather Station,4G,eSIM,Belgium,Hasselt,Limburg Orchards,50.924082,5.34143
+BICS-AGR-00125,Agriculture,Soil Moisture Sensor,LTE-M,Traditional SIM,Belgium,Leuven,Brabant Research Farm,50.894015,4.710372
+BICS-AGR-00126,Agriculture,Irrigation Controller,NB-IoT,iSIM,Belgium,Leuven,Brabant Research Farm,50.913035,4.722993
+BICS-AGR-00127,Agriculture,Weather Station,NB-IoT,Traditional SIM,Belgium,Arlon,Luxembourg Province Dairy,49.698196,5.863062
+BICS-AGR-00128,Agriculture,GPS Tractor Tracker,4G,Traditional SIM,Belgium,Namur,Wallonia Grain Belt,50.486028,4.86993
+BICS-AGR-00129,Agriculture,Irrigation Controller,LTE-M,eSIM,Belgium,Hasselt,Limburg Orchards,50.904537,5.360847
+BICS-AGR-00130,Agriculture,Soil Moisture Sensor,NB-IoT,iSIM,Belgium,Namur,Wallonia Grain Belt,50.471494,4.882317
+BICS-AGR-00131,Agriculture,Irrigation Controller,LTE-M,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.657413,5.810064
+BICS-AGR-00132,Agriculture,Greenhouse Climate Sensor,LTE-M,iSIM,Belgium,Leuven,Brabant Research Farm,50.848177,4.71042
+BICS-AGR-00133,Agriculture,Soil Moisture Sensor,NB-IoT,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.664097,5.834516
+BICS-AGR-00134,Agriculture,Soil Moisture Sensor,4G,eSIM,Belgium,Namur,Wallonia Grain Belt,50.45716,4.832234
+BICS-AGR-00135,Agriculture,Livestock Tracker,NB-IoT,Traditional SIM,Belgium,Arlon,Luxembourg Province Dairy,49.676831,5.846821
+BICS-AGR-00136,Agriculture,Livestock Tracker,LTE-M,eSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.828538,3.270764
+BICS-AGR-00137,Agriculture,Greenhouse Climate Sensor,NB-IoT,Traditional SIM,Belgium,Kortrijk,Leie Valley Agriculture,50.803326,3.281472
+BICS-AGR-00138,Agriculture,Greenhouse Climate Sensor,LTE-M,eSIM,Belgium,Hasselt,Limburg Orchards,50.942869,5.343535
+BICS-AGR-00139,Agriculture,Weather Station,4G,eSIM,Belgium,Bruges,West Flanders Farmlands,51.224187,3.203398
+BICS-AGR-00140,Agriculture,GPS Tractor Tracker,LTE-M,eSIM,Belgium,Namur,Wallonia Grain Belt,50.477298,4.8719
+BICS-AGR-00141,Agriculture,Weather Station,5G,iSIM,Belgium,Bruges,West Flanders Farmlands,51.208325,3.198767
+BICS-AGR-00142,Agriculture,GPS Tractor Tracker,NB-IoT,Traditional SIM,Belgium,Namur,Wallonia Grain Belt,50.488396,4.900777
+BICS-AGR-00143,Agriculture,Irrigation Controller,NB-IoT,iSIM,Belgium,Leuven,Brabant Research Farm,50.891483,4.715553
+BICS-AGR-00144,Agriculture,Livestock Tracker,NB-IoT,Traditional SIM,Belgium,Namur,Wallonia Grain Belt,50.444706,4.885742
+BICS-AGR-00145,Agriculture,Livestock Tracker,4G,Traditional SIM,Belgium,Namur,Wallonia Grain Belt,50.46491,4.882367
+BICS-AGR-00146,Agriculture,GPS Tractor Tracker,4G,eSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.843521,3.278294
+BICS-AGR-00147,Agriculture,Weather Station,LTE-M,iSIM,Belgium,Kortrijk,Leie Valley Agriculture,50.8301,3.268294
+BICS-AGR-00148,Agriculture,Weather Station,NB-IoT,Traditional SIM,Belgium,Leuven,Brabant Research Farm,50.893975,4.6933
+BICS-AGR-00149,Agriculture,GPS Tractor Tracker,NB-IoT,Traditional SIM,Belgium,Leuven,Brabant Research Farm,50.871221,4.668629
+BICS-AGR-00150,Agriculture,Irrigation Controller,LTE-M,eSIM,Belgium,Hasselt,Limburg Orchards,50.939511,5.340426
+BICS-AGR-00151,Agriculture,Livestock Tracker,4G,Traditional SIM,Belgium,Leuven,Brabant Research Farm,50.896119,4.696356
+BICS-AGR-00152,Agriculture,GPS Tractor Tracker,NB-IoT,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.687557,5.800964
+BICS-AGR-00153,Agriculture,GPS Tractor Tracker,5G,Traditional SIM,Belgium,Leuven,Brabant Research Farm,50.867425,4.726327
+BICS-AGR-00154,Agriculture,Soil Moisture Sensor,5G,eSIM,Belgium,Bruges,West Flanders Farmlands,51.205552,3.233746
+BICS-AGR-00155,Agriculture,Livestock Tracker,NB-IoT,Traditional SIM,Belgium,Hasselt,Limburg Orchards,50.927626,5.357466
+BICS-AGR-00156,Agriculture,Greenhouse Climate Sensor,NB-IoT,iSIM,Belgium,Hasselt,Limburg Orchards,50.922322,5.369764
+BICS-AGR-00157,Agriculture,Soil Moisture Sensor,NB-IoT,eSIM,Belgium,Hasselt,Limburg Orchards,50.936434,5.339138
+BICS-AGR-00158,Agriculture,Livestock Tracker,NB-IoT,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.660615,5.824215
+BICS-AGR-00159,Agriculture,GPS Tractor Tracker,4G,iSIM,Belgium,Leuven,Brabant Research Farm,50.8511,4.708265
+BICS-AGR-00160,Agriculture,Livestock Tracker,4G,Traditional SIM,Belgium,Namur,Wallonia Grain Belt,50.480038,4.888079
+BICS-AGR-00161,Agriculture,Weather Station,NB-IoT,Traditional SIM,Belgium,Namur,Wallonia Grain Belt,50.479647,4.857333
+BICS-AGR-00162,Agriculture,GPS Tractor Tracker,NB-IoT,Traditional SIM,Belgium,Kortrijk,Leie Valley Agriculture,50.825562,3.271402
+BICS-AGR-00163,Agriculture,Livestock Tracker,4G,eSIM,Belgium,Bruges,West Flanders Farmlands,51.226291,3.230361
+BICS-AGR-00164,Agriculture,GPS Tractor Tracker,LTE-M,eSIM,Belgium,Bruges,West Flanders Farmlands,51.196684,3.215809
+BICS-AGR-00165,Agriculture,Greenhouse Climate Sensor,LTE-M,Traditional SIM,Belgium,Leuven,Brabant Research Farm,50.884079,4.721827
+BICS-AGR-00166,Agriculture,GPS Tractor Tracker,LTE-M,iSIM,Belgium,Bruges,West Flanders Farmlands,51.239105,3.241834
+BICS-AGR-00167,Agriculture,Soil Moisture Sensor,LTE-M,Traditional SIM,Belgium,Leuven,Brabant Research Farm,50.91279,4.696781
+BICS-AGR-00168,Agriculture,Greenhouse Climate Sensor,LTE-M,eSIM,Belgium,Leuven,Brabant Research Farm,50.906604,4.700393
+BICS-AGR-00169,Agriculture,Greenhouse Climate Sensor,LTE-M,Traditional SIM,Belgium,Bruges,West Flanders Farmlands,51.228956,3.212225
+BICS-AGR-00170,Agriculture,GPS Tractor Tracker,4G,Traditional SIM,Belgium,Hasselt,Limburg Orchards,50.92847,5.306919
+BICS-AGR-00171,Agriculture,Soil Moisture Sensor,LTE-M,iSIM,Belgium,Bruges,West Flanders Farmlands,51.192487,3.220457
+BICS-AGR-00172,Agriculture,Greenhouse Climate Sensor,NB-IoT,iSIM,Belgium,Namur,Wallonia Grain Belt,50.457364,4.872496
+BICS-AGR-00173,Agriculture,Soil Moisture Sensor,LTE-M,eSIM,Belgium,Leuven,Brabant Research Farm,50.880851,4.684542
+BICS-AGR-00174,Agriculture,Soil Moisture Sensor,5G,Traditional SIM,Belgium,Leuven,Brabant Research Farm,50.91134,4.706553
+BICS-AGR-00175,Agriculture,Irrigation Controller,LTE-M,eSIM,Belgium,Bruges,West Flanders Farmlands,51.213863,3.212035
+BICS-AGR-00176,Agriculture,Soil Moisture Sensor,LTE-M,Traditional SIM,Belgium,Namur,Wallonia Grain Belt,50.450878,4.857519
+BICS-AGR-00177,Agriculture,Soil Moisture Sensor,LTE-M,eSIM,Belgium,Bruges,West Flanders Farmlands,51.208614,3.195245
+BICS-AGR-00178,Agriculture,GPS Tractor Tracker,LTE-M,eSIM,Belgium,Hasselt,Limburg Orchards,50.928809,5.31297
+BICS-AGR-00179,Agriculture,GPS Tractor Tracker,LTE-M,Traditional SIM,Belgium,Namur,Wallonia Grain Belt,50.477625,4.875163
+BICS-AGR-00180,Agriculture,Irrigation Controller,NB-IoT,eSIM,Belgium,Arlon,Luxembourg Province Dairy,49.684794,5.837184
+BICS-HEA-00001,Healthcare,Patient Monitor,5G,eSIM,Belgium,Ghent,UZ Ghent,51.039085,3.718579
+BICS-HEA-00002,Healthcare,Patient Monitor,NB-IoT,Traditional SIM,Belgium,Antwerp,UZA Antwerp,51.218821,4.422685
+BICS-HEA-00003,Healthcare,Environmental Monitor,5G,eSIM,Belgium,Ghent,UZ Ghent,51.065063,3.751847
+BICS-HEA-00004,Healthcare,Infusion Pump Monitor,NB-IoT,Traditional SIM,Belgium,Brussels,Saint-Luc University Hospital,50.842429,4.414698
+BICS-HEA-00005,Healthcare,Cold Chain Sensor,4G,eSIM,Belgium,Antwerp,UZA Antwerp,51.217531,4.411589
+BICS-HEA-00006,Healthcare,Infusion Pump Monitor,4G,eSIM,Belgium,Liege,CHU de Liege,50.646191,5.58406
+BICS-HEA-00007,Healthcare,Cold Chain Sensor,5G,Traditional SIM,Belgium,Leuven,UZ Leuven,50.876387,4.671916
+BICS-HEA-00008,Healthcare,Infusion Pump Monitor,4G,Traditional SIM,Belgium,Ghent,UZ Ghent,51.036446,3.734158
+BICS-HEA-00009,Healthcare,Asset Tracking Tag,LTE-M,eSIM,Belgium,Antwerp,UZA Antwerp,51.22762,4.407657
+BICS-HEA-00010,Healthcare,Infusion Pump Monitor,4G,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.860981,4.353377
+BICS-HEA-00011,Healthcare,Infusion Pump Monitor,LTE-M,Traditional SIM,Belgium,Brussels,UZ Brussel Hospital,50.866979,4.336159
+BICS-HEA-00012,Healthcare,Environmental Monitor,NB-IoT,iSIM,Belgium,Ghent,UZ Ghent,51.063675,3.728579
+BICS-HEA-00013,Healthcare,Environmental Monitor,LTE-M,iSIM,Belgium,Brussels,UZ Brussel Hospital,50.849469,4.350538
+BICS-HEA-00014,Healthcare,Asset Tracking Tag,LTE-M,Traditional SIM,Belgium,Antwerp,UZA Antwerp,51.215956,4.419279
+BICS-HEA-00015,Healthcare,Patient Monitor,5G,eSIM,Belgium,Antwerp,UZA Antwerp,51.22656,4.423739
+BICS-HEA-00016,Healthcare,Environmental Monitor,4G,Traditional SIM,Belgium,Brussels,UZ Brussel Hospital,50.834743,4.317087
+BICS-HEA-00017,Healthcare,Cold Chain Sensor,LTE-M,eSIM,Belgium,Brussels,Saint-Luc University Hospital,50.85432,4.369804
+BICS-HEA-00018,Healthcare,Patient Monitor,4G,iSIM,Belgium,Liege,CHU de Liege,50.632091,5.577464
+BICS-HEA-00019,Healthcare,Asset Tracking Tag,5G,eSIM,Belgium,Ghent,UZ Ghent,51.08134,3.723076
+BICS-HEA-00020,Healthcare,Infusion Pump Monitor,NB-IoT,Traditional SIM,Belgium,Leuven,UZ Leuven,50.866937,4.685308
+BICS-HEA-00021,Healthcare,Patient Monitor,4G,eSIM,Belgium,Leuven,UZ Leuven,50.874152,4.683383
+BICS-HEA-00022,Healthcare,Asset Tracking Tag,5G,Traditional SIM,Belgium,Leuven,UZ Leuven,50.879527,4.661814
+BICS-HEA-00023,Healthcare,Asset Tracking Tag,LTE-M,Traditional SIM,Belgium,Ghent,UZ Ghent,51.058986,3.718319
+BICS-HEA-00024,Healthcare,Asset Tracking Tag,4G,Traditional SIM,Belgium,Brussels,Saint-Luc University Hospital,50.848755,4.411869
+BICS-HEA-00025,Healthcare,Patient Monitor,4G,iSIM,Belgium,Brussels,UZ Brussel Hospital,50.813988,4.352445
+BICS-HEA-00026,Healthcare,Infusion Pump Monitor,4G,Traditional SIM,Belgium,Leuven,UZ Leuven,50.862056,4.65976
+BICS-HEA-00027,Healthcare,Patient Monitor,5G,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.852808,4.333485
+BICS-HEA-00028,Healthcare,Infusion Pump Monitor,4G,Traditional SIM,Belgium,Antwerp,UZA Antwerp,51.236992,4.406326
+BICS-HEA-00029,Healthcare,Infusion Pump Monitor,NB-IoT,Traditional SIM,Belgium,Brussels,Saint-Luc University Hospital,50.849605,4.387894
+BICS-HEA-00030,Healthcare,Infusion Pump Monitor,4G,eSIM,Belgium,Leuven,UZ Leuven,50.878558,4.659871
+BICS-HEA-00031,Healthcare,Environmental Monitor,LTE-M,iSIM,Belgium,Brussels,Saint-Luc University Hospital,50.851003,4.369296
+BICS-HEA-00032,Healthcare,Cold Chain Sensor,4G,iSIM,Belgium,Leuven,UZ Leuven,50.902942,4.67819
+BICS-HEA-00033,Healthcare,Environmental Monitor,NB-IoT,Traditional SIM,Belgium,Liege,CHU de Liege,50.614676,5.569596
+BICS-HEA-00034,Healthcare,Patient Monitor,5G,eSIM,Belgium,Liege,CHU de Liege,50.618638,5.574172
+BICS-HEA-00035,Healthcare,Infusion Pump Monitor,5G,eSIM,Belgium,Ghent,UZ Ghent,51.013635,3.732019
+BICS-HEA-00036,Healthcare,Infusion Pump Monitor,4G,eSIM,Belgium,Antwerp,UZA Antwerp,51.216143,4.400516
+BICS-HEA-00037,Healthcare,Patient Monitor,4G,Traditional SIM,Belgium,Brussels,Saint-Luc University Hospital,50.827637,4.385788
+BICS-HEA-00038,Healthcare,Patient Monitor,LTE-M,eSIM,Belgium,Ghent,UZ Ghent,51.011369,3.748644
+BICS-HEA-00039,Healthcare,Patient Monitor,4G,Traditional SIM,Belgium,Leuven,UZ Leuven,50.869614,4.687402
+BICS-HEA-00040,Healthcare,Infusion Pump Monitor,4G,iSIM,Belgium,Ghent,UZ Ghent,51.034997,3.717426
+BICS-HEA-00041,Healthcare,Environmental Monitor,4G,Traditional SIM,Belgium,Brussels,UZ Brussel Hospital,50.84384,4.365611
+BICS-HEA-00042,Healthcare,Patient Monitor,4G,eSIM,Belgium,Leuven,UZ Leuven,50.874249,4.665397
+BICS-HEA-00043,Healthcare,Patient Monitor,LTE-M,eSIM,Belgium,Liege,CHU de Liege,50.649947,5.591547
+BICS-HEA-00044,Healthcare,Asset Tracking Tag,LTE-M,eSIM,Belgium,Ghent,UZ Ghent,51.048973,3.728222
+BICS-HEA-00045,Healthcare,Environmental Monitor,5G,eSIM,Belgium,Brussels,Saint-Luc University Hospital,50.846655,4.347526
+BICS-HEA-00046,Healthcare,Patient Monitor,LTE-M,eSIM,Belgium,Antwerp,UZA Antwerp,51.23379,4.378811
+BICS-HEA-00047,Healthcare,Patient Monitor,5G,iSIM,Belgium,Antwerp,UZA Antwerp,51.238902,4.404552
+BICS-HEA-00048,Healthcare,Patient Monitor,4G,Traditional SIM,Belgium,Leuven,UZ Leuven,50.861334,4.667323
+BICS-HEA-00049,Healthcare,Cold Chain Sensor,4G,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.844165,4.328094
+BICS-HEA-00050,Healthcare,Cold Chain Sensor,4G,iSIM,Belgium,Liege,CHU de Liege,50.639966,5.578207
+BICS-HEA-00051,Healthcare,Patient Monitor,4G,Traditional SIM,Belgium,Ghent,UZ Ghent,51.043375,3.737446
+BICS-HEA-00052,Healthcare,Patient Monitor,5G,iSIM,Belgium,Ghent,UZ Ghent,51.083802,3.732929
+BICS-HEA-00053,Healthcare,Asset Tracking Tag,4G,Traditional SIM,Belgium,Antwerp,UZA Antwerp,51.197588,4.424363
+BICS-HEA-00054,Healthcare,Environmental Monitor,5G,eSIM,Belgium,Brussels,Saint-Luc University Hospital,50.851194,4.409349
+BICS-HEA-00055,Healthcare,Asset Tracking Tag,5G,eSIM,Belgium,Ghent,UZ Ghent,51.057425,3.705127
+BICS-HEA-00056,Healthcare,Patient Monitor,LTE-M,Traditional SIM,Belgium,Liege,CHU de Liege,50.60377,5.580394
+BICS-HEA-00057,Healthcare,Cold Chain Sensor,LTE-M,iSIM,Belgium,Ghent,UZ Ghent,51.044832,3.748902
+BICS-HEA-00058,Healthcare,Cold Chain Sensor,LTE-M,eSIM,Belgium,Brussels,Saint-Luc University Hospital,50.860054,4.375672
+BICS-HEA-00059,Healthcare,Cold Chain Sensor,4G,Traditional SIM,Belgium,Brussels,Saint-Luc University Hospital,50.850139,4.365625
+BICS-HEA-00060,Healthcare,Infusion Pump Monitor,4G,Traditional SIM,Belgium,Antwerp,UZA Antwerp,51.228369,4.396831
+BICS-HEA-00061,Healthcare,Patient Monitor,4G,eSIM,Belgium,Leuven,UZ Leuven,50.894767,4.669195
+BICS-HEA-00062,Healthcare,Asset Tracking Tag,5G,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.860771,4.342353
+BICS-HEA-00063,Healthcare,Cold Chain Sensor,4G,iSIM,Belgium,Antwerp,UZA Antwerp,51.230317,4.427337
+BICS-HEA-00064,Healthcare,Cold Chain Sensor,5G,Traditional SIM,Belgium,Liege,CHU de Liege,50.633813,5.577547
+BICS-HEA-00065,Healthcare,Infusion Pump Monitor,4G,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.846885,4.336517
+BICS-HEA-00066,Healthcare,Asset Tracking Tag,5G,eSIM,Belgium,Ghent,UZ Ghent,51.026264,3.727708
+BICS-HEA-00067,Healthcare,Asset Tracking Tag,NB-IoT,Traditional SIM,Belgium,Antwerp,UZA Antwerp,51.2036,4.428041
+BICS-HEA-00068,Healthcare,Patient Monitor,4G,eSIM,Belgium,Antwerp,UZA Antwerp,51.225363,4.387604
+BICS-HEA-00069,Healthcare,Cold Chain Sensor,5G,eSIM,Belgium,Antwerp,UZA Antwerp,51.222073,4.387415
+BICS-HEA-00070,Healthcare,Patient Monitor,LTE-M,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.874599,4.352345
+BICS-HEA-00071,Healthcare,Environmental Monitor,LTE-M,eSIM,Belgium,Leuven,UZ Leuven,50.863511,4.675153
+BICS-HEA-00072,Healthcare,Asset Tracking Tag,4G,iSIM,Belgium,Brussels,UZ Brussel Hospital,50.868606,4.370348
+BICS-HEA-00073,Healthcare,Patient Monitor,5G,Traditional SIM,Belgium,Brussels,UZ Brussel Hospital,50.859074,4.344386
+BICS-HEA-00074,Healthcare,Infusion Pump Monitor,5G,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.835811,4.358811
+BICS-HEA-00075,Healthcare,Cold Chain Sensor,NB-IoT,eSIM,Belgium,Liege,CHU de Liege,50.653549,5.573216
+BICS-HEA-00076,Healthcare,Environmental Monitor,5G,iSIM,Belgium,Antwerp,UZA Antwerp,51.229779,4.415924
+BICS-HEA-00077,Healthcare,Patient Monitor,LTE-M,iSIM,Belgium,Antwerp,UZA Antwerp,51.235285,4.408799
+BICS-HEA-00078,Healthcare,Infusion Pump Monitor,5G,iSIM,Belgium,Brussels,UZ Brussel Hospital,50.864332,4.360522
+BICS-HEA-00079,Healthcare,Asset Tracking Tag,5G,eSIM,Belgium,Liege,CHU de Liege,50.608659,5.587893
+BICS-HEA-00080,Healthcare,Patient Monitor,5G,eSIM,Belgium,Brussels,Saint-Luc University Hospital,50.877756,4.382724
+BICS-HEA-00081,Healthcare,Patient Monitor,NB-IoT,Traditional SIM,Belgium,Antwerp,UZA Antwerp,51.191265,4.410065
+BICS-HEA-00082,Healthcare,Environmental Monitor,5G,Traditional SIM,Belgium,Brussels,Saint-Luc University Hospital,50.839778,4.406634
+BICS-HEA-00083,Healthcare,Asset Tracking Tag,4G,iSIM,Belgium,Brussels,Saint-Luc University Hospital,50.861708,4.400784
+BICS-HEA-00084,Healthcare,Environmental Monitor,5G,iSIM,Belgium,Leuven,UZ Leuven,50.861503,4.663553
+BICS-HEA-00085,Healthcare,Asset Tracking Tag,4G,Traditional SIM,Belgium,Ghent,UZ Ghent,51.037161,3.780798
+BICS-HEA-00086,Healthcare,Patient Monitor,4G,Traditional SIM,Belgium,Brussels,UZ Brussel Hospital,50.872945,4.341075
+BICS-HEA-00087,Healthcare,Patient Monitor,LTE-M,eSIM,Belgium,Brussels,Saint-Luc University Hospital,50.835721,4.375246
+BICS-HEA-00088,Healthcare,Environmental Monitor,4G,Traditional SIM,Belgium,Liege,CHU de Liege,50.631888,5.58031
+BICS-HEA-00089,Healthcare,Infusion Pump Monitor,5G,iSIM,Belgium,Ghent,UZ Ghent,51.055837,3.729411
+BICS-HEA-00090,Healthcare,Environmental Monitor,LTE-M,eSIM,Belgium,Antwerp,UZA Antwerp,51.234628,4.397229
+BICS-HEA-00091,Healthcare,Patient Monitor,NB-IoT,eSIM,Belgium,Antwerp,UZA Antwerp,51.23152,4.413171
+BICS-HEA-00092,Healthcare,Asset Tracking Tag,5G,Traditional SIM,Belgium,Liege,CHU de Liege,50.639841,5.579252
+BICS-HEA-00093,Healthcare,Patient Monitor,LTE-M,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.843066,4.350112
+BICS-HEA-00094,Healthcare,Cold Chain Sensor,4G,eSIM,Belgium,Ghent,UZ Ghent,51.038952,3.725419
+BICS-HEA-00095,Healthcare,Infusion Pump Monitor,4G,eSIM,Belgium,Ghent,UZ Ghent,51.066497,3.702531
+BICS-HEA-00096,Healthcare,Infusion Pump Monitor,5G,Traditional SIM,Belgium,Brussels,Saint-Luc University Hospital,50.83835,4.384953
+BICS-HEA-00097,Healthcare,Infusion Pump Monitor,4G,eSIM,Belgium,Leuven,UZ Leuven,50.873129,4.68831
+BICS-HEA-00098,Healthcare,Environmental Monitor,4G,eSIM,Belgium,Ghent,UZ Ghent,51.076265,3.735567
+BICS-HEA-00099,Healthcare,Asset Tracking Tag,4G,eSIM,Belgium,Brussels,Saint-Luc University Hospital,50.837871,4.405634
+BICS-HEA-00100,Healthcare,Environmental Monitor,NB-IoT,eSIM,Belgium,Leuven,UZ Leuven,50.902526,4.656314
+BICS-HEA-00101,Healthcare,Patient Monitor,4G,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.865472,4.345643
+BICS-HEA-00102,Healthcare,Cold Chain Sensor,LTE-M,eSIM,Belgium,Leuven,UZ Leuven,50.844881,4.689957
+BICS-HEA-00103,Healthcare,Environmental Monitor,LTE-M,eSIM,Belgium,Antwerp,UZA Antwerp,51.227277,4.395052
+BICS-HEA-00104,Healthcare,Cold Chain Sensor,4G,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.83579,4.340495
+BICS-HEA-00105,Healthcare,Infusion Pump Monitor,LTE-M,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.83665,4.369792
+BICS-HEA-00106,Healthcare,Infusion Pump Monitor,5G,eSIM,Belgium,Antwerp,UZA Antwerp,51.177068,4.410762
+BICS-HEA-00107,Healthcare,Infusion Pump Monitor,LTE-M,eSIM,Belgium,Liege,CHU de Liege,50.634416,5.568189
+BICS-HEA-00108,Healthcare,Environmental Monitor,LTE-M,Traditional SIM,Belgium,Ghent,UZ Ghent,51.044402,3.692928
+BICS-HEA-00109,Healthcare,Patient Monitor,4G,eSIM,Belgium,Ghent,UZ Ghent,51.038328,3.754764
+BICS-HEA-00110,Healthcare,Environmental Monitor,4G,eSIM,Belgium,Liege,CHU de Liege,50.630014,5.574128
+BICS-HEA-00111,Healthcare,Cold Chain Sensor,4G,eSIM,Belgium,Liege,CHU de Liege,50.621097,5.58613
+BICS-HEA-00112,Healthcare,Asset Tracking Tag,NB-IoT,eSIM,Belgium,Ghent,UZ Ghent,51.024577,3.702987
+BICS-HEA-00113,Healthcare,Infusion Pump Monitor,4G,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.856317,4.359176
+BICS-HEA-00114,Healthcare,Patient Monitor,4G,Traditional SIM,Belgium,Leuven,UZ Leuven,50.907499,4.661968
+BICS-HEA-00115,Healthcare,Infusion Pump Monitor,4G,Traditional SIM,Belgium,Leuven,UZ Leuven,50.875594,4.665743
+BICS-HEA-00116,Healthcare,Patient Monitor,4G,Traditional SIM,Belgium,Brussels,UZ Brussel Hospital,50.845802,4.338187
+BICS-HEA-00117,Healthcare,Infusion Pump Monitor,4G,Traditional SIM,Belgium,Brussels,Saint-Luc University Hospital,50.836687,4.3692
+BICS-HEA-00118,Healthcare,Cold Chain Sensor,LTE-M,Traditional SIM,Belgium,Leuven,UZ Leuven,50.901578,4.687196
+BICS-HEA-00119,Healthcare,Cold Chain Sensor,4G,eSIM,Belgium,Liege,CHU de Liege,50.624025,5.593566
+BICS-HEA-00120,Healthcare,Infusion Pump Monitor,5G,eSIM,Belgium,Ghent,UZ Ghent,51.024338,3.701984
+BICS-HEA-00121,Healthcare,Environmental Monitor,4G,eSIM,Belgium,Brussels,Saint-Luc University Hospital,50.850501,4.405806
+BICS-HEA-00122,Healthcare,Infusion Pump Monitor,5G,eSIM,Belgium,Leuven,UZ Leuven,50.897339,4.658196
+BICS-HEA-00123,Healthcare,Patient Monitor,4G,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.836638,4.341799
+BICS-HEA-00124,Healthcare,Patient Monitor,5G,eSIM,Belgium,Liege,CHU de Liege,50.629509,5.577496
+BICS-HEA-00125,Healthcare,Infusion Pump Monitor,LTE-M,Traditional SIM,Belgium,Brussels,Saint-Luc University Hospital,50.830142,4.3906
+BICS-HEA-00126,Healthcare,Cold Chain Sensor,4G,Traditional SIM,Belgium,Antwerp,UZA Antwerp,51.213524,4.415595
+BICS-HEA-00127,Healthcare,Cold Chain Sensor,NB-IoT,Traditional SIM,Belgium,Leuven,UZ Leuven,50.899839,4.690966
+BICS-HEA-00128,Healthcare,Cold Chain Sensor,NB-IoT,Traditional SIM,Belgium,Liege,CHU de Liege,50.629751,5.556321
+BICS-HEA-00129,Healthcare,Cold Chain Sensor,5G,eSIM,Belgium,Ghent,UZ Ghent,51.033489,3.743415
+BICS-HEA-00130,Healthcare,Infusion Pump Monitor,NB-IoT,eSIM,Belgium,Brussels,Saint-Luc University Hospital,50.832669,4.393905
+BICS-HEA-00131,Healthcare,Patient Monitor,4G,eSIM,Belgium,Antwerp,UZA Antwerp,51.215042,4.42648
+BICS-HEA-00132,Healthcare,Infusion Pump Monitor,4G,Traditional SIM,Belgium,Brussels,Saint-Luc University Hospital,50.833288,4.377407
+BICS-HEA-00133,Healthcare,Cold Chain Sensor,4G,eSIM,Belgium,Ghent,UZ Ghent,51.040704,3.707177
+BICS-HEA-00134,Healthcare,Cold Chain Sensor,4G,eSIM,Belgium,Brussels,Saint-Luc University Hospital,50.823007,4.39329
+BICS-HEA-00135,Healthcare,Cold Chain Sensor,LTE-M,eSIM,Belgium,Brussels,Saint-Luc University Hospital,50.852416,4.410286
+BICS-HEA-00136,Healthcare,Cold Chain Sensor,LTE-M,iSIM,Belgium,Brussels,Saint-Luc University Hospital,50.853436,4.362002
+BICS-HEA-00137,Healthcare,Patient Monitor,4G,eSIM,Belgium,Brussels,Saint-Luc University Hospital,50.837112,4.393804
+BICS-HEA-00138,Healthcare,Cold Chain Sensor,LTE-M,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.833844,4.350375
+BICS-HEA-00139,Healthcare,Asset Tracking Tag,NB-IoT,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.859958,4.374824
+BICS-HEA-00140,Healthcare,Cold Chain Sensor,4G,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.842625,4.351522
+BICS-HEA-00141,Healthcare,Cold Chain Sensor,4G,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.855917,4.356821
+BICS-HEA-00142,Healthcare,Infusion Pump Monitor,4G,eSIM,Belgium,Ghent,UZ Ghent,51.049282,3.704262
+BICS-HEA-00143,Healthcare,Asset Tracking Tag,LTE-M,Traditional SIM,Belgium,Ghent,UZ Ghent,51.065024,3.727792
+BICS-HEA-00144,Healthcare,Cold Chain Sensor,LTE-M,eSIM,Belgium,Antwerp,UZA Antwerp,51.227954,4.411436
+BICS-HEA-00145,Healthcare,Asset Tracking Tag,4G,iSIM,Belgium,Antwerp,UZA Antwerp,51.219533,4.43108
+BICS-HEA-00146,Healthcare,Asset Tracking Tag,5G,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.857842,4.363756
+BICS-HEA-00147,Healthcare,Cold Chain Sensor,LTE-M,iSIM,Belgium,Leuven,UZ Leuven,50.864014,4.636111
+BICS-HEA-00148,Healthcare,Patient Monitor,LTE-M,eSIM,Belgium,Ghent,UZ Ghent,51.06139,3.732736
+BICS-HEA-00149,Healthcare,Infusion Pump Monitor,4G,eSIM,Belgium,Ghent,UZ Ghent,51.057271,3.733107
+BICS-HEA-00150,Healthcare,Environmental Monitor,LTE-M,Traditional SIM,Belgium,Liege,CHU de Liege,50.650366,5.569415
+BICS-HEA-00151,Healthcare,Infusion Pump Monitor,5G,Traditional SIM,Belgium,Ghent,UZ Ghent,51.042622,3.727845
+BICS-HEA-00152,Healthcare,Environmental Monitor,LTE-M,Traditional SIM,Belgium,Ghent,UZ Ghent,51.038891,3.717004
+BICS-HEA-00153,Healthcare,Infusion Pump Monitor,5G,iSIM,Belgium,Brussels,Saint-Luc University Hospital,50.833676,4.383102
+BICS-HEA-00154,Healthcare,Cold Chain Sensor,LTE-M,eSIM,Belgium,Antwerp,UZA Antwerp,51.199251,4.416179
+BICS-HEA-00155,Healthcare,Infusion Pump Monitor,5G,eSIM,Belgium,Ghent,UZ Ghent,51.076899,3.72927
+BICS-HEA-00156,Healthcare,Asset Tracking Tag,4G,iSIM,Belgium,Liege,CHU de Liege,50.620026,5.589856
+BICS-HEA-00157,Healthcare,Environmental Monitor,5G,Traditional SIM,Belgium,Ghent,UZ Ghent,51.023443,3.723581
+BICS-HEA-00158,Healthcare,Asset Tracking Tag,4G,eSIM,Belgium,Ghent,UZ Ghent,51.052169,3.725694
+BICS-HEA-00159,Healthcare,Environmental Monitor,4G,Traditional SIM,Belgium,Antwerp,UZA Antwerp,51.193569,4.390097
+BICS-HEA-00160,Healthcare,Patient Monitor,4G,Traditional SIM,Belgium,Liege,CHU de Liege,50.62918,5.58093
+BICS-HEA-00161,Healthcare,Asset Tracking Tag,NB-IoT,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.862449,4.3384
+BICS-HEA-00162,Healthcare,Cold Chain Sensor,5G,Traditional SIM,Belgium,Leuven,UZ Leuven,50.879465,4.678185
+BICS-HEA-00163,Healthcare,Infusion Pump Monitor,4G,eSIM,Belgium,Liege,CHU de Liege,50.646933,5.585243
+BICS-HEA-00164,Healthcare,Asset Tracking Tag,5G,eSIM,Belgium,Leuven,UZ Leuven,50.871634,4.664394
+BICS-HEA-00165,Healthcare,Environmental Monitor,LTE-M,eSIM,Belgium,Brussels,Saint-Luc University Hospital,50.829286,4.381502
+BICS-HEA-00166,Healthcare,Cold Chain Sensor,4G,eSIM,Belgium,Brussels,Saint-Luc University Hospital,50.84536,4.388702
+BICS-HEA-00167,Healthcare,Environmental Monitor,LTE-M,Traditional SIM,Belgium,Ghent,UZ Ghent,51.044398,3.723269
+BICS-HEA-00168,Healthcare,Environmental Monitor,LTE-M,Traditional SIM,Belgium,Brussels,Saint-Luc University Hospital,50.844186,4.381662
+BICS-HEA-00169,Healthcare,Infusion Pump Monitor,LTE-M,Traditional SIM,Belgium,Brussels,Saint-Luc University Hospital,50.837382,4.370414
+BICS-HEA-00170,Healthcare,Environmental Monitor,5G,Traditional SIM,Belgium,Ghent,UZ Ghent,51.048255,3.704964
+BICS-HEA-00171,Healthcare,Asset Tracking Tag,4G,Traditional SIM,Belgium,Brussels,Saint-Luc University Hospital,50.832062,4.401109
+BICS-HEA-00172,Healthcare,Environmental Monitor,4G,eSIM,Belgium,Liege,CHU de Liege,50.632956,5.580577
+BICS-HEA-00173,Healthcare,Cold Chain Sensor,NB-IoT,eSIM,Belgium,Brussels,Saint-Luc University Hospital,50.83787,4.375468
+BICS-HEA-00174,Healthcare,Infusion Pump Monitor,5G,eSIM,Belgium,Antwerp,UZA Antwerp,51.217991,4.419855
+BICS-HEA-00175,Healthcare,Infusion Pump Monitor,LTE-M,eSIM,Belgium,Ghent,UZ Ghent,51.021391,3.732958
+BICS-HEA-00176,Healthcare,Environmental Monitor,5G,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.845406,4.340364
+BICS-HEA-00177,Healthcare,Cold Chain Sensor,4G,Traditional SIM,Belgium,Liege,CHU de Liege,50.656361,5.609656
+BICS-HEA-00178,Healthcare,Asset Tracking Tag,4G,Traditional SIM,Belgium,Antwerp,UZA Antwerp,51.221054,4.409665
+BICS-HEA-00179,Healthcare,Environmental Monitor,LTE-M,eSIM,Belgium,Antwerp,UZA Antwerp,51.192764,4.419535
+BICS-HEA-00180,Healthcare,Environmental Monitor,5G,eSIM,Belgium,Liege,CHU de Liege,50.620103,5.598107
+BICS-HEA-00181,Healthcare,Asset Tracking Tag,4G,Traditional SIM,Belgium,Ghent,UZ Ghent,51.029781,3.717916
+BICS-HEA-00182,Healthcare,Cold Chain Sensor,4G,iSIM,Belgium,Antwerp,UZA Antwerp,51.23196,4.409754
+BICS-HEA-00183,Healthcare,Asset Tracking Tag,4G,Traditional SIM,Belgium,Brussels,UZ Brussel Hospital,50.823515,4.366814
+BICS-HEA-00184,Healthcare,Cold Chain Sensor,4G,Traditional SIM,Belgium,Liege,CHU de Liege,50.654508,5.585861
+BICS-HEA-00185,Healthcare,Infusion Pump Monitor,4G,iSIM,Belgium,Brussels,UZ Brussel Hospital,50.842784,4.346623
+BICS-HEA-00186,Healthcare,Cold Chain Sensor,4G,Traditional SIM,Belgium,Ghent,UZ Ghent,51.058066,3.735726
+BICS-HEA-00187,Healthcare,Cold Chain Sensor,5G,Traditional SIM,Belgium,Ghent,UZ Ghent,51.058214,3.723629
+BICS-HEA-00188,Healthcare,Patient Monitor,4G,eSIM,Belgium,Liege,CHU de Liege,50.651376,5.582591
+BICS-HEA-00189,Healthcare,Environmental Monitor,LTE-M,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.832025,4.368619
+BICS-HEA-00190,Healthcare,Environmental Monitor,5G,eSIM,Belgium,Liege,CHU de Liege,50.627331,5.571966
+BICS-HEA-00191,Healthcare,Environmental Monitor,4G,eSIM,Belgium,Brussels,UZ Brussel Hospital,50.848117,4.361192
+BICS-HEA-00192,Healthcare,Environmental Monitor,5G,eSIM,Belgium,Ghent,UZ Ghent,51.022304,3.721194
+BICS-HEA-00193,Healthcare,Cold Chain Sensor,5G,Traditional SIM,Belgium,Liege,CHU de Liege,50.625522,5.581156
+BICS-HEA-00194,Healthcare,Patient Monitor,4G,Traditional SIM,Belgium,Antwerp,UZA Antwerp,51.242866,4.410908
+BICS-HEA-00195,Healthcare,Environmental Monitor,4G,eSIM,Belgium,Ghent,UZ Ghent,51.033491,3.728934
+BICS-HEA-00196,Healthcare,Infusion Pump Monitor,4G,Traditional SIM,Belgium,Ghent,UZ Ghent,51.054419,3.717771
+BICS-HEA-00197,Healthcare,Asset Tracking Tag,4G,eSIM,Belgium,Brussels,Saint-Luc University Hospital,50.843286,4.385028
+BICS-HEA-00198,Healthcare,Asset Tracking Tag,4G,Traditional SIM,Belgium,Brussels,UZ Brussel Hospital,50.854177,4.364211
+BICS-HEA-00199,Healthcare,Environmental Monitor,4G,Traditional SIM,Belgium,Brussels,UZ Brussel Hospital,50.837356,4.342951
+BICS-HEA-00200,Healthcare,Infusion Pump Monitor,5G,Traditional SIM,Belgium,Liege,CHU de Liege,50.645967,5.590888
+BICS-IND-00001,Industrial Manufacturing,Environmental Sensor,LTE-M,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.91857,5.327519
+BICS-IND-00002,Industrial Manufacturing,Vibration Sensor,4G,eSIM,Belgium,Charleroi,Charleroi Steel Works,50.413876,4.448309
+BICS-IND-00003,Industrial Manufacturing,Vibration Sensor,5G,iSIM,Belgium,Charleroi,Charleroi Steel Works,50.407246,4.454099
+BICS-IND-00004,Industrial Manufacturing,CNC Machine Monitor,5G,Traditional SIM,Belgium,Hasselt,Genk Auto Assembly,50.958995,5.341555
+BICS-IND-00005,Industrial Manufacturing,CNC Machine Monitor,4G,Traditional SIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.278995,4.354186
+BICS-IND-00006,Industrial Manufacturing,Power Meter,5G,eSIM,Belgium,Liege,Liege Aerospace Park,50.620051,5.622548
+BICS-IND-00007,Industrial Manufacturing,Power Meter,5G,eSIM,Belgium,Liege,Liege Aerospace Park,50.631362,5.650674
+BICS-IND-00008,Industrial Manufacturing,Pressure Gauge,4G,eSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.299187,4.347932
+BICS-IND-00009,Industrial Manufacturing,Vibration Sensor,4G,eSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.279996,4.369607
+BICS-IND-00010,Industrial Manufacturing,Conveyor Belt Monitor,4G,Traditional SIM,Belgium,Ghent,Ghent Chemical Cluster,51.044171,3.715048
+BICS-IND-00011,Industrial Manufacturing,Conveyor Belt Monitor,4G,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.950902,5.315206
+BICS-IND-00012,Industrial Manufacturing,Pressure Gauge,LTE-M,eSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.271734,4.347391
+BICS-IND-00013,Industrial Manufacturing,Conveyor Belt Monitor,4G,eSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.305083,4.371303
+BICS-IND-00014,Industrial Manufacturing,Power Meter,5G,eSIM,Belgium,Liege,Liege Aerospace Park,50.608857,5.60861
+BICS-IND-00015,Industrial Manufacturing,Vibration Sensor,4G,eSIM,Belgium,Ghent,Ghent Chemical Cluster,51.077911,3.734058
+BICS-IND-00016,Industrial Manufacturing,Power Meter,4G,Traditional SIM,Belgium,Hasselt,Genk Auto Assembly,50.91976,5.325717
+BICS-IND-00017,Industrial Manufacturing,Pressure Gauge,4G,Traditional SIM,Belgium,Hasselt,Genk Auto Assembly,50.913387,5.355665
+BICS-IND-00018,Industrial Manufacturing,Pressure Gauge,5G,Traditional SIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.272394,4.337106
+BICS-IND-00019,Industrial Manufacturing,Power Meter,LTE-M,iSIM,Belgium,Ghent,Ghent Chemical Cluster,51.077392,3.734265
+BICS-IND-00020,Industrial Manufacturing,Power Meter,LTE-M,Traditional SIM,Belgium,Mechelen,Mechelen Tech Campus,51.0258,4.502137
+BICS-IND-00021,Industrial Manufacturing,Pressure Gauge,LTE-M,Traditional SIM,Belgium,Mechelen,Mechelen Tech Campus,50.999251,4.488776
+BICS-IND-00022,Industrial Manufacturing,Vibration Sensor,NB-IoT,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.946906,5.345255
+BICS-IND-00023,Industrial Manufacturing,CNC Machine Monitor,5G,iSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.281365,4.367871
+BICS-IND-00024,Industrial Manufacturing,Pressure Gauge,5G,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.909038,5.315837
+BICS-IND-00025,Industrial Manufacturing,Environmental Sensor,4G,Traditional SIM,Belgium,Mechelen,Mechelen Tech Campus,51.005395,4.495439
+BICS-IND-00026,Industrial Manufacturing,Power Meter,4G,iSIM,Belgium,Hasselt,Genk Auto Assembly,50.951073,5.3271
+BICS-IND-00027,Industrial Manufacturing,Pressure Gauge,5G,Traditional SIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.25216,4.366024
+BICS-IND-00028,Industrial Manufacturing,Environmental Sensor,4G,Traditional SIM,Belgium,Mechelen,Mechelen Tech Campus,51.043848,4.488286
+BICS-IND-00029,Industrial Manufacturing,Conveyor Belt Monitor,4G,eSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.271208,4.352916
+BICS-IND-00030,Industrial Manufacturing,Power Meter,5G,eSIM,Belgium,Liege,Liege Aerospace Park,50.607567,5.611235
+BICS-IND-00031,Industrial Manufacturing,Pressure Gauge,4G,iSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.25963,4.37042
+BICS-IND-00032,Industrial Manufacturing,Environmental Sensor,4G,Traditional SIM,Belgium,Liege,Liege Aerospace Park,50.613632,5.623787
+BICS-IND-00033,Industrial Manufacturing,Power Meter,LTE-M,Traditional SIM,Belgium,Liege,Liege Aerospace Park,50.618393,5.621172
+BICS-IND-00034,Industrial Manufacturing,Conveyor Belt Monitor,NB-IoT,Traditional SIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.255803,4.350094
+BICS-IND-00035,Industrial Manufacturing,CNC Machine Monitor,NB-IoT,Traditional SIM,Belgium,Charleroi,Charleroi Steel Works,50.402011,4.432136
+BICS-IND-00036,Industrial Manufacturing,Pressure Gauge,4G,Traditional SIM,Belgium,Ghent,Ghent Chemical Cluster,51.050474,3.778278
+BICS-IND-00037,Industrial Manufacturing,Pressure Gauge,LTE-M,eSIM,Belgium,Liege,Liege Aerospace Park,50.622398,5.595719
+BICS-IND-00038,Industrial Manufacturing,Environmental Sensor,4G,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.931266,5.320813
+BICS-IND-00039,Industrial Manufacturing,CNC Machine Monitor,5G,Traditional SIM,Belgium,Hasselt,Genk Auto Assembly,50.937478,5.35153
+BICS-IND-00040,Industrial Manufacturing,Environmental Sensor,LTE-M,Traditional SIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.249564,4.332713
+BICS-IND-00041,Industrial Manufacturing,Power Meter,5G,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.944731,5.346601
+BICS-IND-00042,Industrial Manufacturing,Conveyor Belt Monitor,4G,eSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.295144,4.3622
+BICS-IND-00043,Industrial Manufacturing,Conveyor Belt Monitor,4G,eSIM,Belgium,Liege,Liege Aerospace Park,50.592576,5.639831
+BICS-IND-00044,Industrial Manufacturing,Conveyor Belt Monitor,4G,Traditional SIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.264073,4.3593
+BICS-IND-00045,Industrial Manufacturing,Pressure Gauge,4G,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.934192,5.317129
+BICS-IND-00046,Industrial Manufacturing,Power Meter,LTE-M,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.025124,4.494426
+BICS-IND-00047,Industrial Manufacturing,CNC Machine Monitor,4G,eSIM,Belgium,Charleroi,Charleroi Steel Works,50.410154,4.427117
+BICS-IND-00048,Industrial Manufacturing,Power Meter,LTE-M,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.914699,5.332715
+BICS-IND-00049,Industrial Manufacturing,Power Meter,LTE-M,eSIM,Belgium,Ghent,Ghent Chemical Cluster,51.046162,3.753473
+BICS-IND-00050,Industrial Manufacturing,CNC Machine Monitor,4G,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.954868,5.344567
+BICS-IND-00051,Industrial Manufacturing,Vibration Sensor,5G,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.925084,5.336499
+BICS-IND-00052,Industrial Manufacturing,Power Meter,LTE-M,iSIM,Belgium,Hasselt,Genk Auto Assembly,50.929135,5.335926
+BICS-IND-00053,Industrial Manufacturing,CNC Machine Monitor,LTE-M,Traditional SIM,Belgium,Hasselt,Genk Auto Assembly,50.905638,5.328757
+BICS-IND-00054,Industrial Manufacturing,Vibration Sensor,4G,eSIM,Belgium,Ghent,Ghent Chemical Cluster,51.060152,3.731508
+BICS-IND-00055,Industrial Manufacturing,Power Meter,4G,Traditional SIM,Belgium,Mechelen,Mechelen Tech Campus,51.042799,4.491905
+BICS-IND-00056,Industrial Manufacturing,Environmental Sensor,5G,Traditional SIM,Belgium,Charleroi,Charleroi Steel Works,50.422236,4.431021
+BICS-IND-00057,Industrial Manufacturing,CNC Machine Monitor,LTE-M,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.035851,4.473176
+BICS-IND-00058,Industrial Manufacturing,Vibration Sensor,5G,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.019135,4.468476
+BICS-IND-00059,Industrial Manufacturing,Vibration Sensor,LTE-M,iSIM,Belgium,Ghent,Ghent Chemical Cluster,51.055528,3.754454
+BICS-IND-00060,Industrial Manufacturing,Environmental Sensor,4G,Traditional SIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.249691,4.343291
+BICS-IND-00061,Industrial Manufacturing,CNC Machine Monitor,NB-IoT,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.012981,4.482973
+BICS-IND-00062,Industrial Manufacturing,Power Meter,LTE-M,Traditional SIM,Belgium,Ghent,Ghent Chemical Cluster,51.057953,3.781025
+BICS-IND-00063,Industrial Manufacturing,Environmental Sensor,LTE-M,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.919508,5.336764
+BICS-IND-00064,Industrial Manufacturing,Conveyor Belt Monitor,LTE-M,Traditional SIM,Belgium,Charleroi,Charleroi Steel Works,50.418948,4.433251
+BICS-IND-00065,Industrial Manufacturing,CNC Machine Monitor,5G,eSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.289792,4.36041
+BICS-IND-00066,Industrial Manufacturing,Pressure Gauge,5G,iSIM,Belgium,Mechelen,Mechelen Tech Campus,51.053558,4.489218
+BICS-IND-00067,Industrial Manufacturing,Environmental Sensor,5G,Traditional SIM,Belgium,Mechelen,Mechelen Tech Campus,51.027273,4.490228
+BICS-IND-00068,Industrial Manufacturing,CNC Machine Monitor,4G,Traditional SIM,Belgium,Hasselt,Genk Auto Assembly,50.930688,5.33234
+BICS-IND-00069,Industrial Manufacturing,Vibration Sensor,4G,Traditional SIM,Belgium,Charleroi,Charleroi Steel Works,50.392631,4.42626
+BICS-IND-00070,Industrial Manufacturing,CNC Machine Monitor,4G,Traditional SIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.243582,4.35275
+BICS-IND-00071,Industrial Manufacturing,CNC Machine Monitor,5G,Traditional SIM,Belgium,Ghent,Ghent Chemical Cluster,51.07261,3.754702
+BICS-IND-00072,Industrial Manufacturing,Environmental Sensor,LTE-M,iSIM,Belgium,Hasselt,Genk Auto Assembly,50.925159,5.330361
+BICS-IND-00073,Industrial Manufacturing,Vibration Sensor,4G,eSIM,Belgium,Liege,Liege Aerospace Park,50.606796,5.640702
+BICS-IND-00074,Industrial Manufacturing,Pressure Gauge,5G,Traditional SIM,Belgium,Charleroi,Charleroi Steel Works,50.418677,4.440872
+BICS-IND-00075,Industrial Manufacturing,CNC Machine Monitor,4G,Traditional SIM,Belgium,Liege,Liege Aerospace Park,50.626435,5.604882
+BICS-IND-00076,Industrial Manufacturing,Vibration Sensor,5G,Traditional SIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.258093,4.353901
+BICS-IND-00077,Industrial Manufacturing,Environmental Sensor,4G,Traditional SIM,Belgium,Mechelen,Mechelen Tech Campus,51.008601,4.49744
+BICS-IND-00078,Industrial Manufacturing,Power Meter,5G,eSIM,Belgium,Ghent,Ghent Chemical Cluster,51.058857,3.74031
+BICS-IND-00079,Industrial Manufacturing,Power Meter,4G,iSIM,Belgium,Hasselt,Genk Auto Assembly,50.908059,5.339675
+BICS-IND-00080,Industrial Manufacturing,Conveyor Belt Monitor,5G,Traditional SIM,Belgium,Charleroi,Charleroi Steel Works,50.390412,4.434149
+BICS-IND-00081,Industrial Manufacturing,Power Meter,5G,eSIM,Belgium,Charleroi,Charleroi Steel Works,50.448689,4.456359
+BICS-IND-00082,Industrial Manufacturing,CNC Machine Monitor,NB-IoT,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.034862,4.473086
+BICS-IND-00083,Industrial Manufacturing,Conveyor Belt Monitor,5G,Traditional SIM,Belgium,Charleroi,Charleroi Steel Works,50.419546,4.435026
+BICS-IND-00084,Industrial Manufacturing,Power Meter,5G,Traditional SIM,Belgium,Charleroi,Charleroi Steel Works,50.396656,4.454805
+BICS-IND-00085,Industrial Manufacturing,CNC Machine Monitor,4G,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.019163,4.484385
+BICS-IND-00086,Industrial Manufacturing,Environmental Sensor,5G,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.018648,4.487266
+BICS-IND-00087,Industrial Manufacturing,CNC Machine Monitor,5G,eSIM,Belgium,Ghent,Ghent Chemical Cluster,51.102791,3.752119
+BICS-IND-00088,Industrial Manufacturing,Pressure Gauge,5G,Traditional SIM,Belgium,Charleroi,Charleroi Steel Works,50.425613,4.437783
+BICS-IND-00089,Industrial Manufacturing,Power Meter,NB-IoT,Traditional SIM,Belgium,Liege,Liege Aerospace Park,50.628565,5.605366
+BICS-IND-00090,Industrial Manufacturing,Pressure Gauge,4G,Traditional SIM,Belgium,Ghent,Ghent Chemical Cluster,51.089531,3.759213
+BICS-IND-00091,Industrial Manufacturing,Vibration Sensor,4G,eSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.27781,4.328142
+BICS-IND-00092,Industrial Manufacturing,Environmental Sensor,5G,Traditional SIM,Belgium,Charleroi,Charleroi Steel Works,50.398371,4.449828
+BICS-IND-00093,Industrial Manufacturing,Environmental Sensor,4G,iSIM,Belgium,Ghent,Ghent Chemical Cluster,51.077598,3.756994
+BICS-IND-00094,Industrial Manufacturing,Conveyor Belt Monitor,4G,Traditional SIM,Belgium,Ghent,Ghent Chemical Cluster,51.060198,3.734973
+BICS-IND-00095,Industrial Manufacturing,Vibration Sensor,LTE-M,Traditional SIM,Belgium,Charleroi,Charleroi Steel Works,50.383427,4.442276
+BICS-IND-00096,Industrial Manufacturing,Power Meter,LTE-M,Traditional SIM,Belgium,Liege,Liege Aerospace Park,50.619117,5.641534
+BICS-IND-00097,Industrial Manufacturing,Conveyor Belt Monitor,LTE-M,eSIM,Belgium,Charleroi,Charleroi Steel Works,50.405753,4.437992
+BICS-IND-00098,Industrial Manufacturing,Environmental Sensor,NB-IoT,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.03279,4.49853
+BICS-IND-00099,Industrial Manufacturing,CNC Machine Monitor,4G,iSIM,Belgium,Liege,Liege Aerospace Park,50.604247,5.6005
+BICS-IND-00100,Industrial Manufacturing,Environmental Sensor,NB-IoT,eSIM,Belgium,Charleroi,Charleroi Steel Works,50.41196,4.437737
+BICS-IND-00101,Industrial Manufacturing,Conveyor Belt Monitor,LTE-M,eSIM,Belgium,Charleroi,Charleroi Steel Works,50.411539,4.407595
+BICS-IND-00102,Industrial Manufacturing,Power Meter,LTE-M,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.008152,4.478007
+BICS-IND-00103,Industrial Manufacturing,Conveyor Belt Monitor,NB-IoT,eSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.286662,4.348882
+BICS-IND-00104,Industrial Manufacturing,Power Meter,4G,eSIM,Belgium,Charleroi,Charleroi Steel Works,50.409161,4.435853
+BICS-IND-00105,Industrial Manufacturing,CNC Machine Monitor,4G,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.043377,4.468235
+BICS-IND-00106,Industrial Manufacturing,Conveyor Belt Monitor,LTE-M,Traditional SIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.283753,4.357309
+BICS-IND-00107,Industrial Manufacturing,CNC Machine Monitor,LTE-M,Traditional SIM,Belgium,Mechelen,Mechelen Tech Campus,51.032626,4.473246
+BICS-IND-00108,Industrial Manufacturing,Environmental Sensor,LTE-M,Traditional SIM,Belgium,Mechelen,Mechelen Tech Campus,51.01422,4.516912
+BICS-IND-00109,Industrial Manufacturing,Pressure Gauge,4G,Traditional SIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.274507,4.346397
+BICS-IND-00110,Industrial Manufacturing,Power Meter,LTE-M,Traditional SIM,Belgium,Hasselt,Genk Auto Assembly,50.927697,5.320324
+BICS-IND-00111,Industrial Manufacturing,Conveyor Belt Monitor,LTE-M,Traditional SIM,Belgium,Ghent,Ghent Chemical Cluster,51.046746,3.750701
+BICS-IND-00112,Industrial Manufacturing,Environmental Sensor,LTE-M,iSIM,Belgium,Ghent,Ghent Chemical Cluster,51.070348,3.741964
+BICS-IND-00113,Industrial Manufacturing,Vibration Sensor,5G,Traditional SIM,Belgium,Ghent,Ghent Chemical Cluster,51.065884,3.744495
+BICS-IND-00114,Industrial Manufacturing,Vibration Sensor,5G,Traditional SIM,Belgium,Ghent,Ghent Chemical Cluster,51.077152,3.749987
+BICS-IND-00115,Industrial Manufacturing,Environmental Sensor,5G,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.02278,4.476316
+BICS-IND-00116,Industrial Manufacturing,Environmental Sensor,LTE-M,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.928885,5.349312
+BICS-IND-00117,Industrial Manufacturing,Conveyor Belt Monitor,5G,Traditional SIM,Belgium,Liege,Liege Aerospace Park,50.64254,5.607698
+BICS-IND-00118,Industrial Manufacturing,Pressure Gauge,5G,eSIM,Belgium,Charleroi,Charleroi Steel Works,50.396709,4.430004
+BICS-IND-00119,Industrial Manufacturing,Vibration Sensor,5G,iSIM,Belgium,Liege,Liege Aerospace Park,50.625504,5.622085
+BICS-IND-00120,Industrial Manufacturing,CNC Machine Monitor,LTE-M,Traditional SIM,Belgium,Liege,Liege Aerospace Park,50.590014,5.631073
+BICS-IND-00121,Industrial Manufacturing,Environmental Sensor,4G,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.029429,4.458061
+BICS-IND-00122,Industrial Manufacturing,Conveyor Belt Monitor,5G,Traditional SIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.276529,4.351371
+BICS-IND-00123,Industrial Manufacturing,CNC Machine Monitor,4G,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.935384,5.317774
+BICS-IND-00124,Industrial Manufacturing,CNC Machine Monitor,5G,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.945218,5.284455
+BICS-IND-00125,Industrial Manufacturing,Pressure Gauge,5G,eSIM,Belgium,Liege,Liege Aerospace Park,50.613858,5.623564
+BICS-IND-00126,Industrial Manufacturing,Pressure Gauge,5G,eSIM,Belgium,Charleroi,Charleroi Steel Works,50.411661,4.435737
+BICS-IND-00127,Industrial Manufacturing,Vibration Sensor,LTE-M,eSIM,Belgium,Liege,Liege Aerospace Park,50.629117,5.632896
+BICS-IND-00128,Industrial Manufacturing,Pressure Gauge,NB-IoT,Traditional SIM,Belgium,Charleroi,Charleroi Steel Works,50.416336,4.429964
+BICS-IND-00129,Industrial Manufacturing,Conveyor Belt Monitor,LTE-M,eSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.269748,4.33437
+BICS-IND-00130,Industrial Manufacturing,Conveyor Belt Monitor,4G,eSIM,Belgium,Ghent,Ghent Chemical Cluster,51.087397,3.767824
+BICS-IND-00131,Industrial Manufacturing,Environmental Sensor,4G,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.940546,5.325233
+BICS-IND-00132,Industrial Manufacturing,CNC Machine Monitor,5G,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.945696,5.330794
+BICS-IND-00133,Industrial Manufacturing,Pressure Gauge,5G,iSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.262355,4.344683
+BICS-IND-00134,Industrial Manufacturing,Conveyor Belt Monitor,4G,Traditional SIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.275386,4.367551
+BICS-IND-00135,Industrial Manufacturing,Vibration Sensor,5G,eSIM,Belgium,Liege,Liege Aerospace Park,50.59787,5.611296
+BICS-IND-00136,Industrial Manufacturing,Power Meter,LTE-M,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.038088,4.493458
+BICS-IND-00137,Industrial Manufacturing,Environmental Sensor,4G,eSIM,Belgium,Ghent,Ghent Chemical Cluster,51.078056,3.742089
+BICS-IND-00138,Industrial Manufacturing,Pressure Gauge,4G,eSIM,Belgium,Charleroi,Charleroi Steel Works,50.419195,4.458036
+BICS-IND-00139,Industrial Manufacturing,Pressure Gauge,4G,eSIM,Belgium,Ghent,Ghent Chemical Cluster,51.044411,3.745243
+BICS-IND-00140,Industrial Manufacturing,Environmental Sensor,4G,eSIM,Belgium,Charleroi,Charleroi Steel Works,50.412236,4.420138
+BICS-IND-00141,Industrial Manufacturing,Environmental Sensor,NB-IoT,eSIM,Belgium,Liege,Liege Aerospace Park,50.638229,5.631123
+BICS-IND-00142,Industrial Manufacturing,CNC Machine Monitor,4G,Traditional SIM,Belgium,Mechelen,Mechelen Tech Campus,51.02514,4.474855
+BICS-IND-00143,Industrial Manufacturing,Power Meter,4G,Traditional SIM,Belgium,Hasselt,Genk Auto Assembly,50.952102,5.316244
+BICS-IND-00144,Industrial Manufacturing,CNC Machine Monitor,5G,eSIM,Belgium,Ghent,Ghent Chemical Cluster,51.07252,3.755553
+BICS-IND-00145,Industrial Manufacturing,Environmental Sensor,LTE-M,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.952628,5.331989
+BICS-IND-00146,Industrial Manufacturing,Environmental Sensor,5G,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.024664,4.505546
+BICS-IND-00147,Industrial Manufacturing,Pressure Gauge,5G,Traditional SIM,Belgium,Hasselt,Genk Auto Assembly,50.928198,5.331471
+BICS-IND-00148,Industrial Manufacturing,Power Meter,LTE-M,Traditional SIM,Belgium,Hasselt,Genk Auto Assembly,50.948128,5.327429
+BICS-IND-00149,Industrial Manufacturing,Environmental Sensor,5G,iSIM,Belgium,Hasselt,Genk Auto Assembly,50.948578,5.323073
+BICS-IND-00150,Industrial Manufacturing,Power Meter,4G,Traditional SIM,Belgium,Hasselt,Genk Auto Assembly,50.934627,5.364349
+BICS-IND-00151,Industrial Manufacturing,Environmental Sensor,4G,iSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.283482,4.342513
+BICS-IND-00152,Industrial Manufacturing,Conveyor Belt Monitor,NB-IoT,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.028934,4.477315
+BICS-IND-00153,Industrial Manufacturing,Power Meter,4G,iSIM,Belgium,Ghent,Ghent Chemical Cluster,51.081773,3.748419
+BICS-IND-00154,Industrial Manufacturing,Pressure Gauge,LTE-M,eSIM,Belgium,Charleroi,Charleroi Steel Works,50.430297,4.464196
+BICS-IND-00155,Industrial Manufacturing,Vibration Sensor,NB-IoT,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.902713,5.33515
+BICS-IND-00156,Industrial Manufacturing,Pressure Gauge,4G,eSIM,Belgium,Ghent,Ghent Chemical Cluster,51.069039,3.7353
+BICS-IND-00157,Industrial Manufacturing,Environmental Sensor,5G,Traditional SIM,Belgium,Hasselt,Genk Auto Assembly,50.934039,5.312852
+BICS-IND-00158,Industrial Manufacturing,Pressure Gauge,LTE-M,iSIM,Belgium,Charleroi,Charleroi Steel Works,50.415869,4.427812
+BICS-IND-00159,Industrial Manufacturing,Vibration Sensor,5G,Traditional SIM,Belgium,Hasselt,Genk Auto Assembly,50.932623,5.348507
+BICS-IND-00160,Industrial Manufacturing,Pressure Gauge,5G,eSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.238306,4.330821
+BICS-IND-00161,Industrial Manufacturing,Power Meter,LTE-M,iSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.272651,4.370452
+BICS-IND-00162,Industrial Manufacturing,Conveyor Belt Monitor,LTE-M,Traditional SIM,Belgium,Ghent,Ghent Chemical Cluster,51.071297,3.759307
+BICS-IND-00163,Industrial Manufacturing,CNC Machine Monitor,4G,eSIM,Belgium,Liege,Liege Aerospace Park,50.624884,5.595877
+BICS-IND-00164,Industrial Manufacturing,Pressure Gauge,LTE-M,Traditional SIM,Belgium,Charleroi,Charleroi Steel Works,50.412994,4.453678
+BICS-IND-00165,Industrial Manufacturing,Conveyor Belt Monitor,5G,Traditional SIM,Belgium,Hasselt,Genk Auto Assembly,50.920286,5.343937
+BICS-IND-00166,Industrial Manufacturing,Conveyor Belt Monitor,NB-IoT,eSIM,Belgium,Ghent,Ghent Chemical Cluster,51.074633,3.743577
+BICS-IND-00167,Industrial Manufacturing,Pressure Gauge,5G,eSIM,Belgium,Liege,Liege Aerospace Park,50.604755,5.60493
+BICS-IND-00168,Industrial Manufacturing,Power Meter,NB-IoT,eSIM,Belgium,Charleroi,Charleroi Steel Works,50.403496,4.444939
+BICS-IND-00169,Industrial Manufacturing,Vibration Sensor,4G,Traditional SIM,Belgium,Mechelen,Mechelen Tech Campus,51.04942,4.481089
+BICS-IND-00170,Industrial Manufacturing,Conveyor Belt Monitor,5G,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.916834,5.333337
+BICS-IND-00171,Industrial Manufacturing,Environmental Sensor,5G,iSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.268669,4.354785
+BICS-IND-00172,Industrial Manufacturing,Conveyor Belt Monitor,5G,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.029945,4.461074
+BICS-IND-00173,Industrial Manufacturing,Pressure Gauge,4G,eSIM,Belgium,Ghent,Ghent Chemical Cluster,51.073044,3.740416
+BICS-IND-00174,Industrial Manufacturing,Environmental Sensor,4G,Traditional SIM,Belgium,Mechelen,Mechelen Tech Campus,51.02589,4.4764
+BICS-IND-00175,Industrial Manufacturing,Conveyor Belt Monitor,4G,eSIM,Belgium,Ghent,Ghent Chemical Cluster,51.067796,3.781009
+BICS-IND-00176,Industrial Manufacturing,Power Meter,5G,Traditional SIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.286138,4.331837
+BICS-IND-00177,Industrial Manufacturing,Environmental Sensor,4G,Traditional SIM,Belgium,Charleroi,Charleroi Steel Works,50.396919,4.431109
+BICS-IND-00178,Industrial Manufacturing,Power Meter,4G,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.000489,4.472296
+BICS-IND-00179,Industrial Manufacturing,CNC Machine Monitor,5G,Traditional SIM,Belgium,Mechelen,Mechelen Tech Campus,51.05177,4.47041
+BICS-IND-00180,Industrial Manufacturing,Pressure Gauge,5G,Traditional SIM,Belgium,Ghent,Ghent Chemical Cluster,51.063902,3.754511
+BICS-IND-00181,Industrial Manufacturing,Vibration Sensor,LTE-M,eSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.272395,4.369352
+BICS-IND-00182,Industrial Manufacturing,CNC Machine Monitor,LTE-M,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.028391,4.485727
+BICS-IND-00183,Industrial Manufacturing,Conveyor Belt Monitor,LTE-M,Traditional SIM,Belgium,Mechelen,Mechelen Tech Campus,51.04322,4.485559
+BICS-IND-00184,Industrial Manufacturing,Pressure Gauge,4G,Traditional SIM,Belgium,Ghent,Ghent Chemical Cluster,51.113682,3.754407
+BICS-IND-00185,Industrial Manufacturing,Environmental Sensor,4G,Traditional SIM,Belgium,Ghent,Ghent Chemical Cluster,51.047376,3.739342
+BICS-IND-00186,Industrial Manufacturing,Pressure Gauge,4G,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.930029,5.36342
+BICS-IND-00187,Industrial Manufacturing,Vibration Sensor,4G,iSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.256988,4.351778
+BICS-IND-00188,Industrial Manufacturing,Power Meter,LTE-M,eSIM,Belgium,Charleroi,Charleroi Steel Works,50.415199,4.450555
+BICS-IND-00189,Industrial Manufacturing,Environmental Sensor,5G,iSIM,Belgium,Ghent,Ghent Chemical Cluster,51.073555,3.753003
+BICS-IND-00190,Industrial Manufacturing,Pressure Gauge,NB-IoT,iSIM,Belgium,Hasselt,Genk Auto Assembly,50.916493,5.353974
+BICS-IND-00191,Industrial Manufacturing,Power Meter,4G,Traditional SIM,Belgium,Charleroi,Charleroi Steel Works,50.419781,4.434496
+BICS-IND-00192,Industrial Manufacturing,CNC Machine Monitor,LTE-M,eSIM,Belgium,Hasselt,Genk Auto Assembly,50.938031,5.352967
+BICS-IND-00193,Industrial Manufacturing,Vibration Sensor,5G,eSIM,Belgium,Antwerp,Port of Antwerp Industrial Zone,51.250931,4.344436
+BICS-IND-00194,Industrial Manufacturing,Conveyor Belt Monitor,5G,iSIM,Belgium,Hasselt,Genk Auto Assembly,50.939404,5.33652
+BICS-IND-00195,Industrial Manufacturing,CNC Machine Monitor,NB-IoT,eSIM,Belgium,Ghent,Ghent Chemical Cluster,51.069371,3.726871
+BICS-IND-00196,Industrial Manufacturing,Vibration Sensor,4G,eSIM,Belgium,Charleroi,Charleroi Steel Works,50.404869,4.427611
+BICS-IND-00197,Industrial Manufacturing,CNC Machine Monitor,LTE-M,eSIM,Belgium,Mechelen,Mechelen Tech Campus,51.045096,4.489966
+BICS-IND-00198,Industrial Manufacturing,Pressure Gauge,LTE-M,Traditional SIM,Belgium,Mechelen,Mechelen Tech Campus,51.044317,4.464002
+BICS-IND-00199,Industrial Manufacturing,Conveyor Belt Monitor,4G,Traditional SIM,Belgium,Hasselt,Genk Auto Assembly,50.931603,5.32759
+BICS-IND-00200,Industrial Manufacturing,Vibration Sensor,5G,iSIM,Belgium,Hasselt,Genk Auto Assembly,50.935215,5.324787
+BICS-TRA-00001,Transport & Logistics,Cold Chain Monitor,4G,Traditional SIM,Belgium,Ghent,Ghent Logistics Park,51.101425,3.753121
+BICS-TRA-00002,Transport & Logistics,Trailer Tracker,4G,eSIM,Belgium,Zeebrugge,Zeebrugge Port,51.339749,3.173874
+BICS-TRA-00003,Transport & Logistics,Trailer Tracker,4G,eSIM,Belgium,Zeebrugge,Zeebrugge Port,51.323592,3.176829
+BICS-TRA-00004,Transport & Logistics,Drone Delivery,LTE-M,Traditional SIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.307333,4.27586
+BICS-TRA-00005,Transport & Logistics,Trailer Tracker,5G,Traditional SIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.303857,4.28532
+BICS-TRA-00006,Transport & Logistics,Fleet GPS Tracker,LTE-M,Traditional SIM,Belgium,Brussels,Brussels Airport Cargo,50.917043,4.484868
+BICS-TRA-00007,Transport & Logistics,Fuel Sensor,4G,Traditional SIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.305656,4.275235
+BICS-TRA-00008,Transport & Logistics,Fuel Sensor,LTE-M,Traditional SIM,Belgium,Brussels,Brussels Airport Cargo,50.896058,4.485498
+BICS-TRA-00009,Transport & Logistics,Drone Delivery,4G,iSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.309993,4.269908
+BICS-TRA-00010,Transport & Logistics,Drone Delivery,4G,iSIM,Belgium,Zeebrugge,Zeebrugge Port,51.330301,3.177836
+BICS-TRA-00011,Transport & Logistics,Trailer Tracker,4G,Traditional SIM,Belgium,Ghent,Ghent Logistics Park,51.068191,3.753896
+BICS-TRA-00012,Transport & Logistics,Cold Chain Monitor,5G,iSIM,Belgium,Mechelen,E19 Corridor Hub,51.017973,4.50132
+BICS-TRA-00013,Transport & Logistics,Cold Chain Monitor,4G,Traditional SIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.289907,4.269818
+BICS-TRA-00014,Transport & Logistics,Trailer Tracker,4G,Traditional SIM,Belgium,Brussels,Brussels Airport Cargo,50.906506,4.479411
+BICS-TRA-00015,Transport & Logistics,Container Sensor,LTE-M,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.67605,5.451597
+BICS-TRA-00016,Transport & Logistics,Fleet GPS Tracker,5G,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.626445,5.454478
+BICS-TRA-00017,Transport & Logistics,Container Sensor,5G,eSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.287914,4.262021
+BICS-TRA-00018,Transport & Logistics,Fuel Sensor,LTE-M,iSIM,Belgium,Zeebrugge,Zeebrugge Port,51.343088,3.195659
+BICS-TRA-00019,Transport & Logistics,Container Sensor,4G,Traditional SIM,Belgium,Liege,Liege Airport Logistics Hub,50.61888,5.443113
+BICS-TRA-00020,Transport & Logistics,Trailer Tracker,4G,Traditional SIM,Belgium,Zeebrugge,Zeebrugge Port,51.331271,3.174571
+BICS-TRA-00021,Transport & Logistics,Container Sensor,4G,Traditional SIM,Belgium,Mechelen,E19 Corridor Hub,51.044821,4.481477
+BICS-TRA-00022,Transport & Logistics,Cold Chain Monitor,LTE-M,eSIM,Belgium,Brussels,Brussels Airport Cargo,50.884159,4.483327
+BICS-TRA-00023,Transport & Logistics,Cold Chain Monitor,LTE-M,Traditional SIM,Belgium,Brussels,Brussels Airport Cargo,50.891813,4.460099
+BICS-TRA-00024,Transport & Logistics,Container Sensor,5G,eSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.304802,4.27296
+BICS-TRA-00025,Transport & Logistics,Drone Delivery,LTE-M,iSIM,Belgium,Ghent,Ghent Logistics Park,51.093359,3.717822
+BICS-TRA-00026,Transport & Logistics,Fleet GPS Tracker,4G,Traditional SIM,Belgium,Mechelen,E19 Corridor Hub,51.014188,4.476659
+BICS-TRA-00027,Transport & Logistics,Fleet GPS Tracker,4G,iSIM,Belgium,Liege,Liege Airport Logistics Hub,50.628438,5.454564
+BICS-TRA-00028,Transport & Logistics,Trailer Tracker,LTE-M,iSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.280035,4.304351
+BICS-TRA-00029,Transport & Logistics,Container Sensor,5G,eSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.295757,4.277412
+BICS-TRA-00030,Transport & Logistics,Container Sensor,4G,eSIM,Belgium,Ghent,Ghent Logistics Park,51.074235,3.762589
+BICS-TRA-00031,Transport & Logistics,Fuel Sensor,5G,iSIM,Belgium,Ghent,Ghent Logistics Park,51.077639,3.737948
+BICS-TRA-00032,Transport & Logistics,Cold Chain Monitor,4G,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.020274,4.490116
+BICS-TRA-00033,Transport & Logistics,Container Sensor,LTE-M,iSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.320717,4.290534
+BICS-TRA-00034,Transport & Logistics,Trailer Tracker,4G,eSIM,Belgium,Ghent,Ghent Logistics Park,51.11782,3.749568
+BICS-TRA-00035,Transport & Logistics,Cold Chain Monitor,4G,Traditional SIM,Belgium,Mechelen,E19 Corridor Hub,51.036952,4.505995
+BICS-TRA-00036,Transport & Logistics,Fleet GPS Tracker,LTE-M,Traditional SIM,Belgium,Ghent,Ghent Logistics Park,51.111519,3.73546
+BICS-TRA-00037,Transport & Logistics,Container Sensor,4G,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.001261,4.52169
+BICS-TRA-00038,Transport & Logistics,Fuel Sensor,4G,iSIM,Belgium,Ghent,Ghent Logistics Park,51.115922,3.731486
+BICS-TRA-00039,Transport & Logistics,Trailer Tracker,4G,eSIM,Belgium,Ghent,Ghent Logistics Park,51.107718,3.732224
+BICS-TRA-00040,Transport & Logistics,Fleet GPS Tracker,LTE-M,Traditional SIM,Belgium,Liege,Liege Airport Logistics Hub,50.657976,5.448962
+BICS-TRA-00041,Transport & Logistics,Trailer Tracker,LTE-M,eSIM,Belgium,Ghent,Ghent Logistics Park,51.113881,3.716241
+BICS-TRA-00042,Transport & Logistics,Container Sensor,4G,eSIM,Belgium,Zeebrugge,Zeebrugge Port,51.344994,3.17155
+BICS-TRA-00043,Transport & Logistics,Trailer Tracker,4G,Traditional SIM,Belgium,Ghent,Ghent Logistics Park,51.096244,3.731249
+BICS-TRA-00044,Transport & Logistics,Cold Chain Monitor,4G,Traditional SIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.2838,4.290637
+BICS-TRA-00045,Transport & Logistics,Drone Delivery,4G,eSIM,Belgium,Brussels,Brussels Airport Cargo,50.898153,4.453085
+BICS-TRA-00046,Transport & Logistics,Cold Chain Monitor,4G,Traditional SIM,Belgium,Liege,Liege Airport Logistics Hub,50.649693,5.462928
+BICS-TRA-00047,Transport & Logistics,Cold Chain Monitor,5G,Traditional SIM,Belgium,Zeebrugge,Zeebrugge Port,51.315922,3.200068
+BICS-TRA-00048,Transport & Logistics,Fuel Sensor,LTE-M,Traditional SIM,Belgium,Zeebrugge,Zeebrugge Port,51.335489,3.184666
+BICS-TRA-00049,Transport & Logistics,Fuel Sensor,LTE-M,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.029596,4.501345
+BICS-TRA-00050,Transport & Logistics,Container Sensor,4G,iSIM,Belgium,Mechelen,E19 Corridor Hub,51.007477,4.519272
+BICS-TRA-00051,Transport & Logistics,Cold Chain Monitor,LTE-M,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.05388,4.494592
+BICS-TRA-00052,Transport & Logistics,Fuel Sensor,4G,Traditional SIM,Belgium,Liege,Liege Airport Logistics Hub,50.62195,5.46907
+BICS-TRA-00053,Transport & Logistics,Drone Delivery,LTE-M,Traditional SIM,Belgium,Zeebrugge,Zeebrugge Port,51.323303,3.162571
+BICS-TRA-00054,Transport & Logistics,Drone Delivery,LTE-M,Traditional SIM,Belgium,Mechelen,E19 Corridor Hub,51.023984,4.481963
+BICS-TRA-00055,Transport & Logistics,Trailer Tracker,LTE-M,eSIM,Belgium,Ghent,Ghent Logistics Park,51.115383,3.751408
+BICS-TRA-00056,Transport & Logistics,Fleet GPS Tracker,4G,eSIM,Belgium,Zeebrugge,Zeebrugge Port,51.340824,3.195801
+BICS-TRA-00057,Transport & Logistics,Trailer Tracker,5G,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.626756,5.464132
+BICS-TRA-00058,Transport & Logistics,Drone Delivery,LTE-M,iSIM,Belgium,Ghent,Ghent Logistics Park,51.099107,3.742265
+BICS-TRA-00059,Transport & Logistics,Container Sensor,4G,Traditional SIM,Belgium,Mechelen,E19 Corridor Hub,51.032484,4.498583
+BICS-TRA-00060,Transport & Logistics,Trailer Tracker,LTE-M,Traditional SIM,Belgium,Brussels,Brussels Airport Cargo,50.902377,4.504051
+BICS-TRA-00061,Transport & Logistics,Trailer Tracker,4G,eSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.302347,4.291722
+BICS-TRA-00062,Transport & Logistics,Cold Chain Monitor,LTE-M,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.66618,5.460971
+BICS-TRA-00063,Transport & Logistics,Cold Chain Monitor,4G,eSIM,Belgium,Brussels,Brussels Airport Cargo,50.892884,4.488028
+BICS-TRA-00064,Transport & Logistics,Fuel Sensor,LTE-M,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.651563,5.456011
+BICS-TRA-00065,Transport & Logistics,Fleet GPS Tracker,5G,eSIM,Belgium,Zeebrugge,Zeebrugge Port,51.298214,3.16769
+BICS-TRA-00066,Transport & Logistics,Cold Chain Monitor,LTE-M,Traditional SIM,Belgium,Liege,Liege Airport Logistics Hub,50.645259,5.448049
+BICS-TRA-00067,Transport & Logistics,Trailer Tracker,4G,Traditional SIM,Belgium,Liege,Liege Airport Logistics Hub,50.645993,5.437187
+BICS-TRA-00068,Transport & Logistics,Fuel Sensor,4G,Traditional SIM,Belgium,Brussels,Brussels Airport Cargo,50.906483,4.479419
+BICS-TRA-00069,Transport & Logistics,Fuel Sensor,4G,iSIM,Belgium,Liege,Liege Airport Logistics Hub,50.624656,5.464298
+BICS-TRA-00070,Transport & Logistics,Trailer Tracker,4G,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.617682,5.45903
+BICS-TRA-00071,Transport & Logistics,Trailer Tracker,4G,eSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.284921,4.297694
+BICS-TRA-00072,Transport & Logistics,Container Sensor,NB-IoT,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.632883,5.417103
+BICS-TRA-00073,Transport & Logistics,Fleet GPS Tracker,LTE-M,Traditional SIM,Belgium,Brussels,Brussels Airport Cargo,50.917779,4.481658
+BICS-TRA-00074,Transport & Logistics,Cold Chain Monitor,4G,Traditional SIM,Belgium,Liege,Liege Airport Logistics Hub,50.635532,5.428214
+BICS-TRA-00075,Transport & Logistics,Trailer Tracker,NB-IoT,eSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.304608,4.294557
+BICS-TRA-00076,Transport & Logistics,Container Sensor,4G,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.028494,4.477376
+BICS-TRA-00077,Transport & Logistics,Container Sensor,5G,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.009526,4.508388
+BICS-TRA-00078,Transport & Logistics,Cold Chain Monitor,4G,eSIM,Belgium,Mechelen,E19 Corridor Hub,50.994164,4.529386
+BICS-TRA-00079,Transport & Logistics,Fuel Sensor,5G,eSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.321004,4.284233
+BICS-TRA-00080,Transport & Logistics,Fuel Sensor,4G,Traditional SIM,Belgium,Liege,Liege Airport Logistics Hub,50.656277,5.434951
+BICS-TRA-00081,Transport & Logistics,Cold Chain Monitor,4G,Traditional SIM,Belgium,Zeebrugge,Zeebrugge Port,51.34068,3.173945
+BICS-TRA-00082,Transport & Logistics,Cold Chain Monitor,NB-IoT,Traditional SIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.276108,4.290555
+BICS-TRA-00083,Transport & Logistics,Fuel Sensor,4G,Traditional SIM,Belgium,Brussels,Brussels Airport Cargo,50.907346,4.466117
+BICS-TRA-00084,Transport & Logistics,Container Sensor,LTE-M,iSIM,Belgium,Mechelen,E19 Corridor Hub,51.006248,4.508364
+BICS-TRA-00085,Transport & Logistics,Drone Delivery,LTE-M,Traditional SIM,Belgium,Mechelen,E19 Corridor Hub,51.019298,4.508467
+BICS-TRA-00086,Transport & Logistics,Trailer Tracker,5G,Traditional SIM,Belgium,Ghent,Ghent Logistics Park,51.095949,3.735294
+BICS-TRA-00087,Transport & Logistics,Container Sensor,NB-IoT,Traditional SIM,Belgium,Brussels,Brussels Airport Cargo,50.941896,4.487383
+BICS-TRA-00088,Transport & Logistics,Cold Chain Monitor,4G,eSIM,Belgium,Zeebrugge,Zeebrugge Port,51.347956,3.161671
+BICS-TRA-00089,Transport & Logistics,Drone Delivery,NB-IoT,Traditional SIM,Belgium,Liege,Liege Airport Logistics Hub,50.631494,5.460731
+BICS-TRA-00090,Transport & Logistics,Trailer Tracker,5G,Traditional SIM,Belgium,Ghent,Ghent Logistics Park,51.102809,3.747629
+BICS-TRA-00091,Transport & Logistics,Fleet GPS Tracker,5G,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.628714,5.455777
+BICS-TRA-00092,Transport & Logistics,Fleet GPS Tracker,LTE-M,Traditional SIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.295413,4.265368
+BICS-TRA-00093,Transport & Logistics,Fuel Sensor,LTE-M,eSIM,Belgium,Brussels,Brussels Airport Cargo,50.899951,4.466221
+BICS-TRA-00094,Transport & Logistics,Trailer Tracker,LTE-M,Traditional SIM,Belgium,Zeebrugge,Zeebrugge Port,51.312613,3.190333
+BICS-TRA-00095,Transport & Logistics,Container Sensor,4G,iSIM,Belgium,Zeebrugge,Zeebrugge Port,51.344115,3.199839
+BICS-TRA-00096,Transport & Logistics,Trailer Tracker,LTE-M,Traditional SIM,Belgium,Ghent,Ghent Logistics Park,51.082214,3.727452
+BICS-TRA-00097,Transport & Logistics,Fuel Sensor,4G,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.031205,4.497861
+BICS-TRA-00098,Transport & Logistics,Container Sensor,4G,Traditional SIM,Belgium,Brussels,Brussels Airport Cargo,50.893656,4.506601
+BICS-TRA-00099,Transport & Logistics,Fleet GPS Tracker,5G,Traditional SIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.270366,4.288691
+BICS-TRA-00100,Transport & Logistics,Trailer Tracker,4G,Traditional SIM,Belgium,Zeebrugge,Zeebrugge Port,51.30782,3.18429
+BICS-TRA-00101,Transport & Logistics,Fleet GPS Tracker,NB-IoT,eSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.290584,4.278332
+BICS-TRA-00102,Transport & Logistics,Fleet GPS Tracker,LTE-M,Traditional SIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.289961,4.28057
+BICS-TRA-00103,Transport & Logistics,Cold Chain Monitor,LTE-M,eSIM,Belgium,Brussels,Brussels Airport Cargo,50.917476,4.47367
+BICS-TRA-00104,Transport & Logistics,Fleet GPS Tracker,5G,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.650157,5.441992
+BICS-TRA-00105,Transport & Logistics,Fleet GPS Tracker,4G,eSIM,Belgium,Mechelen,E19 Corridor Hub,50.997957,4.505134
+BICS-TRA-00106,Transport & Logistics,Drone Delivery,5G,eSIM,Belgium,Zeebrugge,Zeebrugge Port,51.360012,3.165009
+BICS-TRA-00107,Transport & Logistics,Drone Delivery,4G,Traditional SIM,Belgium,Brussels,Brussels Airport Cargo,50.889792,4.48729
+BICS-TRA-00108,Transport & Logistics,Drone Delivery,LTE-M,Traditional SIM,Belgium,Mechelen,E19 Corridor Hub,51.030797,4.483173
+BICS-TRA-00109,Transport & Logistics,Cold Chain Monitor,4G,eSIM,Belgium,Ghent,Ghent Logistics Park,51.123064,3.739806
+BICS-TRA-00110,Transport & Logistics,Cold Chain Monitor,4G,eSIM,Belgium,Zeebrugge,Zeebrugge Port,51.337604,3.193961
+BICS-TRA-00111,Transport & Logistics,Cold Chain Monitor,LTE-M,iSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.297592,4.284097
+BICS-TRA-00112,Transport & Logistics,Trailer Tracker,5G,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.640389,5.464818
+BICS-TRA-00113,Transport & Logistics,Cold Chain Monitor,4G,eSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.301174,4.266895
+BICS-TRA-00114,Transport & Logistics,Fleet GPS Tracker,LTE-M,iSIM,Belgium,Ghent,Ghent Logistics Park,51.087703,3.77862
+BICS-TRA-00115,Transport & Logistics,Trailer Tracker,4G,eSIM,Belgium,Ghent,Ghent Logistics Park,51.101618,3.75123
+BICS-TRA-00116,Transport & Logistics,Fleet GPS Tracker,4G,iSIM,Belgium,Ghent,Ghent Logistics Park,51.096028,3.754732
+BICS-TRA-00117,Transport & Logistics,Fuel Sensor,LTE-M,iSIM,Belgium,Brussels,Brussels Airport Cargo,50.908418,4.484431
+BICS-TRA-00118,Transport & Logistics,Fleet GPS Tracker,4G,Traditional SIM,Belgium,Brussels,Brussels Airport Cargo,50.894751,4.464634
+BICS-TRA-00119,Transport & Logistics,Cold Chain Monitor,NB-IoT,Traditional SIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.2905,4.266283
+BICS-TRA-00120,Transport & Logistics,Fuel Sensor,4G,Traditional SIM,Belgium,Ghent,Ghent Logistics Park,51.095092,3.715454
+BICS-TRA-00121,Transport & Logistics,Drone Delivery,LTE-M,Traditional SIM,Belgium,Mechelen,E19 Corridor Hub,51.010359,4.4967
+BICS-TRA-00122,Transport & Logistics,Cold Chain Monitor,4G,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.658767,5.461182
+BICS-TRA-00123,Transport & Logistics,Trailer Tracker,5G,iSIM,Belgium,Mechelen,E19 Corridor Hub,51.007217,4.504146
+BICS-TRA-00124,Transport & Logistics,Container Sensor,5G,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.039001,4.52051
+BICS-TRA-00125,Transport & Logistics,Container Sensor,LTE-M,Traditional SIM,Belgium,Zeebrugge,Zeebrugge Port,51.303536,3.164999
+BICS-TRA-00126,Transport & Logistics,Trailer Tracker,NB-IoT,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.006391,4.486919
+BICS-TRA-00127,Transport & Logistics,Cold Chain Monitor,4G,eSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.295526,4.27878
+BICS-TRA-00128,Transport & Logistics,Fleet GPS Tracker,4G,Traditional SIM,Belgium,Mechelen,E19 Corridor Hub,51.013796,4.510433
+BICS-TRA-00129,Transport & Logistics,Fleet GPS Tracker,4G,eSIM,Belgium,Ghent,Ghent Logistics Park,51.094939,3.746858
+BICS-TRA-00130,Transport & Logistics,Fleet GPS Tracker,LTE-M,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.630481,5.43345
+BICS-TRA-00131,Transport & Logistics,Cold Chain Monitor,NB-IoT,eSIM,Belgium,Zeebrugge,Zeebrugge Port,51.327668,3.164621
+BICS-TRA-00132,Transport & Logistics,Fleet GPS Tracker,LTE-M,eSIM,Belgium,Ghent,Ghent Logistics Park,51.102391,3.766161
+BICS-TRA-00133,Transport & Logistics,Fleet GPS Tracker,NB-IoT,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.638347,5.454362
+BICS-TRA-00134,Transport & Logistics,Drone Delivery,LTE-M,iSIM,Belgium,Liege,Liege Airport Logistics Hub,50.633348,5.455904
+BICS-TRA-00135,Transport & Logistics,Container Sensor,4G,iSIM,Belgium,Mechelen,E19 Corridor Hub,51.027121,4.499084
+BICS-TRA-00136,Transport & Logistics,Cold Chain Monitor,4G,eSIM,Belgium,Ghent,Ghent Logistics Park,51.10664,3.745938
+BICS-TRA-00137,Transport & Logistics,Drone Delivery,4G,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.620822,5.458967
+BICS-TRA-00138,Transport & Logistics,Container Sensor,LTE-M,iSIM,Belgium,Ghent,Ghent Logistics Park,51.117936,3.725517
+BICS-TRA-00139,Transport & Logistics,Drone Delivery,NB-IoT,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.047007,4.507156
+BICS-TRA-00140,Transport & Logistics,Container Sensor,4G,eSIM,Belgium,Ghent,Ghent Logistics Park,51.08937,3.749703
+BICS-TRA-00141,Transport & Logistics,Drone Delivery,4G,Traditional SIM,Belgium,Mechelen,E19 Corridor Hub,51.036272,4.515378
+BICS-TRA-00142,Transport & Logistics,Fuel Sensor,5G,eSIM,Belgium,Ghent,Ghent Logistics Park,51.106643,3.759007
+BICS-TRA-00143,Transport & Logistics,Container Sensor,LTE-M,eSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.301787,4.282627
+BICS-TRA-00144,Transport & Logistics,Fleet GPS Tracker,LTE-M,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.01223,4.520577
+BICS-TRA-00145,Transport & Logistics,Trailer Tracker,5G,Traditional SIM,Belgium,Mechelen,E19 Corridor Hub,51.039419,4.507389
+BICS-TRA-00146,Transport & Logistics,Fuel Sensor,NB-IoT,iSIM,Belgium,Ghent,Ghent Logistics Park,51.074068,3.761119
+BICS-TRA-00147,Transport & Logistics,Fuel Sensor,4G,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.629551,5.431987
+BICS-TRA-00148,Transport & Logistics,Fleet GPS Tracker,LTE-M,iSIM,Belgium,Liege,Liege Airport Logistics Hub,50.636227,5.444696
+BICS-TRA-00149,Transport & Logistics,Trailer Tracker,5G,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.634704,5.42402
+BICS-TRA-00150,Transport & Logistics,Cold Chain Monitor,5G,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.006388,4.482065
+BICS-TRA-00151,Transport & Logistics,Cold Chain Monitor,4G,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.025037,4.50202
+BICS-TRA-00152,Transport & Logistics,Drone Delivery,LTE-M,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.625396,5.447496
+BICS-TRA-00153,Transport & Logistics,Container Sensor,LTE-M,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.043606,4.537755
+BICS-TRA-00154,Transport & Logistics,Fleet GPS Tracker,4G,Traditional SIM,Belgium,Zeebrugge,Zeebrugge Port,51.322296,3.169767
+BICS-TRA-00155,Transport & Logistics,Cold Chain Monitor,LTE-M,eSIM,Belgium,Brussels,Brussels Airport Cargo,50.894377,4.472516
+BICS-TRA-00156,Transport & Logistics,Cold Chain Monitor,4G,eSIM,Belgium,Brussels,Brussels Airport Cargo,50.902187,4.475443
+BICS-TRA-00157,Transport & Logistics,Cold Chain Monitor,4G,Traditional SIM,Belgium,Mechelen,E19 Corridor Hub,50.998533,4.492054
+BICS-TRA-00158,Transport & Logistics,Cold Chain Monitor,4G,eSIM,Belgium,Ghent,Ghent Logistics Park,51.11402,3.74487
+BICS-TRA-00159,Transport & Logistics,Fleet GPS Tracker,LTE-M,Traditional SIM,Belgium,Liege,Liege Airport Logistics Hub,50.64504,5.45394
+BICS-TRA-00160,Transport & Logistics,Fleet GPS Tracker,LTE-M,Traditional SIM,Belgium,Mechelen,E19 Corridor Hub,51.027061,4.508071
+BICS-TRA-00161,Transport & Logistics,Fuel Sensor,5G,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.030232,4.465099
+BICS-TRA-00162,Transport & Logistics,Fleet GPS Tracker,4G,eSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.302699,4.29409
+BICS-TRA-00163,Transport & Logistics,Fuel Sensor,LTE-M,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.035236,4.507909
+BICS-TRA-00164,Transport & Logistics,Trailer Tracker,LTE-M,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.648993,5.448739
+BICS-TRA-00165,Transport & Logistics,Cold Chain Monitor,4G,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.624971,5.455871
+BICS-TRA-00166,Transport & Logistics,Fleet GPS Tracker,NB-IoT,eSIM,Belgium,Ghent,Ghent Logistics Park,51.099653,3.745405
+BICS-TRA-00167,Transport & Logistics,Fuel Sensor,NB-IoT,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.635669,5.457585
+BICS-TRA-00168,Transport & Logistics,Drone Delivery,4G,iSIM,Belgium,Mechelen,E19 Corridor Hub,51.052393,4.492591
+BICS-TRA-00169,Transport & Logistics,Trailer Tracker,LTE-M,eSIM,Belgium,Zeebrugge,Zeebrugge Port,51.331505,3.173221
+BICS-TRA-00170,Transport & Logistics,Cold Chain Monitor,LTE-M,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.012635,4.477216
+BICS-TRA-00171,Transport & Logistics,Fuel Sensor,LTE-M,iSIM,Belgium,Liege,Liege Airport Logistics Hub,50.652579,5.459652
+BICS-TRA-00172,Transport & Logistics,Drone Delivery,LTE-M,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.601987,5.443298
+BICS-TRA-00173,Transport & Logistics,Fleet GPS Tracker,5G,iSIM,Belgium,Zeebrugge,Zeebrugge Port,51.327032,3.156027
+BICS-TRA-00174,Transport & Logistics,Cold Chain Monitor,4G,eSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.304627,4.285024
+BICS-TRA-00175,Transport & Logistics,Trailer Tracker,NB-IoT,Traditional SIM,Belgium,Brussels,Brussels Airport Cargo,50.913415,4.473478
+BICS-TRA-00176,Transport & Logistics,Fuel Sensor,LTE-M,eSIM,Belgium,Zeebrugge,Zeebrugge Port,51.324819,3.170516
+BICS-TRA-00177,Transport & Logistics,Fuel Sensor,LTE-M,Traditional SIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.277095,4.298309
+BICS-TRA-00178,Transport & Logistics,Drone Delivery,4G,eSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.289096,4.28968
+BICS-TRA-00179,Transport & Logistics,Cold Chain Monitor,NB-IoT,eSIM,Belgium,Brussels,Brussels Airport Cargo,50.901429,4.469977
+BICS-TRA-00180,Transport & Logistics,Drone Delivery,4G,iSIM,Belgium,Zeebrugge,Zeebrugge Port,51.333415,3.184277
+BICS-TRA-00181,Transport & Logistics,Cold Chain Monitor,4G,iSIM,Belgium,Zeebrugge,Zeebrugge Port,51.342538,3.176438
+BICS-TRA-00182,Transport & Logistics,Trailer Tracker,LTE-M,iSIM,Belgium,Zeebrugge,Zeebrugge Port,51.316645,3.166997
+BICS-TRA-00183,Transport & Logistics,Container Sensor,4G,Traditional SIM,Belgium,Brussels,Brussels Airport Cargo,50.889859,4.467545
+BICS-TRA-00184,Transport & Logistics,Container Sensor,LTE-M,Traditional SIM,Belgium,Zeebrugge,Zeebrugge Port,51.340065,3.156445
+BICS-TRA-00185,Transport & Logistics,Cold Chain Monitor,4G,Traditional SIM,Belgium,Zeebrugge,Zeebrugge Port,51.320405,3.181282
+BICS-TRA-00186,Transport & Logistics,Container Sensor,5G,Traditional SIM,Belgium,Mechelen,E19 Corridor Hub,51.020344,4.491877
+BICS-TRA-00187,Transport & Logistics,Container Sensor,4G,iSIM,Belgium,Zeebrugge,Zeebrugge Port,51.342862,3.157761
+BICS-TRA-00188,Transport & Logistics,Fuel Sensor,4G,Traditional SIM,Belgium,Zeebrugge,Zeebrugge Port,51.318623,3.185548
+BICS-TRA-00189,Transport & Logistics,Fleet GPS Tracker,LTE-M,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.634125,5.430978
+BICS-TRA-00190,Transport & Logistics,Cold Chain Monitor,NB-IoT,eSIM,Belgium,Ghent,Ghent Logistics Park,51.107883,3.736088
+BICS-TRA-00191,Transport & Logistics,Fleet GPS Tracker,LTE-M,eSIM,Belgium,Brussels,Brussels Airport Cargo,50.898776,4.49613
+BICS-TRA-00192,Transport & Logistics,Trailer Tracker,4G,Traditional SIM,Belgium,Mechelen,E19 Corridor Hub,51.018295,4.511989
+BICS-TRA-00193,Transport & Logistics,Cold Chain Monitor,NB-IoT,iSIM,Belgium,Mechelen,E19 Corridor Hub,51.028127,4.471357
+BICS-TRA-00194,Transport & Logistics,Trailer Tracker,4G,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.034774,4.492464
+BICS-TRA-00195,Transport & Logistics,Fuel Sensor,4G,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.022817,4.505117
+BICS-TRA-00196,Transport & Logistics,Fuel Sensor,5G,eSIM,Belgium,Brussels,Brussels Airport Cargo,50.913599,4.4703
+BICS-TRA-00197,Transport & Logistics,Cold Chain Monitor,4G,eSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.301747,4.258637
+BICS-TRA-00198,Transport & Logistics,Container Sensor,4G,iSIM,Belgium,Zeebrugge,Zeebrugge Port,51.323276,3.164962
+BICS-TRA-00199,Transport & Logistics,Fleet GPS Tracker,4G,eSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.286523,4.271542
+BICS-TRA-00200,Transport & Logistics,Cold Chain Monitor,5G,Traditional SIM,Belgium,Brussels,Brussels Airport Cargo,50.914454,4.486145
+BICS-TRA-00201,Transport & Logistics,Cold Chain Monitor,LTE-M,iSIM,Belgium,Zeebrugge,Zeebrugge Port,51.321049,3.18772
+BICS-TRA-00202,Transport & Logistics,Drone Delivery,4G,eSIM,Belgium,Brussels,Brussels Airport Cargo,50.885585,4.47511
+BICS-TRA-00203,Transport & Logistics,Fleet GPS Tracker,LTE-M,iSIM,Belgium,Liege,Liege Airport Logistics Hub,50.649232,5.437601
+BICS-TRA-00204,Transport & Logistics,Fuel Sensor,LTE-M,iSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.306546,4.276379
+BICS-TRA-00205,Transport & Logistics,Trailer Tracker,4G,eSIM,Belgium,Brussels,Brussels Airport Cargo,50.902803,4.47532
+BICS-TRA-00206,Transport & Logistics,Cold Chain Monitor,4G,Traditional SIM,Belgium,Mechelen,E19 Corridor Hub,51.009114,4.518688
+BICS-TRA-00207,Transport & Logistics,Cold Chain Monitor,LTE-M,eSIM,Belgium,Zeebrugge,Zeebrugge Port,51.346712,3.16497
+BICS-TRA-00208,Transport & Logistics,Drone Delivery,NB-IoT,eSIM,Belgium,Brussels,Brussels Airport Cargo,50.90817,4.463655
+BICS-TRA-00209,Transport & Logistics,Cold Chain Monitor,5G,iSIM,Belgium,Zeebrugge,Zeebrugge Port,51.336671,3.159864
+BICS-TRA-00210,Transport & Logistics,Trailer Tracker,5G,Traditional SIM,Belgium,Zeebrugge,Zeebrugge Port,51.343273,3.158966
+BICS-TRA-00211,Transport & Logistics,Container Sensor,4G,eSIM,Belgium,Mechelen,E19 Corridor Hub,51.015622,4.466627
+BICS-TRA-00212,Transport & Logistics,Cold Chain Monitor,LTE-M,eSIM,Belgium,Zeebrugge,Zeebrugge Port,51.345513,3.188758
+BICS-TRA-00213,Transport & Logistics,Fuel Sensor,NB-IoT,eSIM,Belgium,Liege,Liege Airport Logistics Hub,50.620991,5.448716
+BICS-TRA-00214,Transport & Logistics,Trailer Tracker,LTE-M,iSIM,Belgium,Zeebrugge,Zeebrugge Port,51.292127,3.178457
+BICS-TRA-00215,Transport & Logistics,Cold Chain Monitor,5G,eSIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.315031,4.302209
+BICS-TRA-00216,Transport & Logistics,Fuel Sensor,LTE-M,eSIM,Belgium,Zeebrugge,Zeebrugge Port,51.308802,3.154921
+BICS-TRA-00217,Transport & Logistics,Drone Delivery,LTE-M,Traditional SIM,Belgium,Liege,Liege Airport Logistics Hub,50.631773,5.470193
+BICS-TRA-00218,Transport & Logistics,Drone Delivery,4G,Traditional SIM,Belgium,Zeebrugge,Zeebrugge Port,51.302244,3.15575
+BICS-TRA-00219,Transport & Logistics,Fleet GPS Tracker,4G,iSIM,Belgium,Mechelen,E19 Corridor Hub,51.01346,4.480293
+BICS-TRA-00220,Transport & Logistics,Trailer Tracker,LTE-M,Traditional SIM,Belgium,Antwerp,Port of Antwerp Container Terminal,51.317974,4.274371
+BICS-OEM-00001,OEM,Smart Display,LTE-M,eSIM,Belgium,Mons,Digital Innovation Hub Mons,50.451382,3.971541
+BICS-OEM-00002,OEM,Edge Compute Node,NB-IoT,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.84233,4.359719
+BICS-OEM-00003,OEM,Connected Vehicle Module,NB-IoT,eSIM,Belgium,Leuven,imec Research Campus,50.860251,4.71072
+BICS-OEM-00004,OEM,Industrial Gateway,NB-IoT,eSIM,Belgium,Leuven,imec Research Campus,50.870399,4.686363
+BICS-OEM-00005,OEM,Smart Display,4G,Traditional SIM,Belgium,Leuven,imec Research Campus,50.889797,4.695015
+BICS-OEM-00006,OEM,Smart Display,5G,Traditional SIM,Belgium,Mons,Digital Innovation Hub Mons,50.43941,3.950226
+BICS-OEM-00007,OEM,Industrial Gateway,LTE-M,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.231973,4.394581
+BICS-OEM-00008,OEM,Edge Compute Node,5G,eSIM,Belgium,Mons,Digital Innovation Hub Mons,50.440319,3.970412
+BICS-OEM-00009,OEM,Industrial Gateway,4G,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.856204,4.401191
+BICS-OEM-00010,OEM,Smart Display,LTE-M,Traditional SIM,Belgium,Antwerp,Antwerp Connected Fleet,51.248395,4.412823
+BICS-OEM-00011,OEM,Connected Vehicle Module,5G,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.259793,4.411124
+BICS-OEM-00012,OEM,Smart Display,5G,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.038861,3.715911
+BICS-OEM-00013,OEM,Connected Vehicle Module,NB-IoT,Traditional SIM,Belgium,Brussels,Brussels Smart City Deployment,50.830546,4.376378
+BICS-OEM-00014,OEM,Industrial Gateway,5G,Traditional SIM,Belgium,Mechelen,Telenet HQ Connected Home,51.02753,4.487394
+BICS-OEM-00015,OEM,Edge Compute Node,NB-IoT,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.837775,4.357315
+BICS-OEM-00016,OEM,Smart Display,LTE-M,Traditional SIM,Belgium,Antwerp,Antwerp Connected Fleet,51.240514,4.424083
+BICS-OEM-00017,OEM,Edge Compute Node,5G,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.224535,4.414487
+BICS-OEM-00018,OEM,Connected Vehicle Module,NB-IoT,Traditional SIM,Belgium,Ghent,Ghent IoT Living Lab,51.049424,3.706752
+BICS-OEM-00019,OEM,Edge Compute Node,4G,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.860112,4.369631
+BICS-OEM-00020,OEM,Wearable Device,NB-IoT,Traditional SIM,Belgium,Mons,Digital Innovation Hub Mons,50.446636,3.952494
+BICS-OEM-00021,OEM,Connected Vehicle Module,4G,iSIM,Belgium,Ghent,Ghent IoT Living Lab,51.069295,3.71778
+BICS-OEM-00022,OEM,Edge Compute Node,4G,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.218515,4.410831
+BICS-OEM-00023,OEM,Smart Display,LTE-M,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.064344,3.719781
+BICS-OEM-00024,OEM,Edge Compute Node,LTE-M,eSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.027736,4.469395
+BICS-OEM-00025,OEM,Smart Display,LTE-M,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.06314,3.712733
+BICS-OEM-00026,OEM,Smart Meter,NB-IoT,eSIM,Belgium,Leuven,imec Research Campus,50.903446,4.707798
+BICS-OEM-00027,OEM,Wearable Device,LTE-M,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.200001,4.384878
+BICS-OEM-00028,OEM,Smart Display,LTE-M,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.065846,3.723205
+BICS-OEM-00029,OEM,Connected Vehicle Module,5G,iSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.248912,4.395395
+BICS-OEM-00030,OEM,Smart Meter,4G,iSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.028309,4.482871
+BICS-OEM-00031,OEM,Smart Meter,5G,Traditional SIM,Belgium,Brussels,Brussels Smart City Deployment,50.889762,4.332171
+BICS-OEM-00032,OEM,Smart Display,NB-IoT,Traditional SIM,Belgium,Brussels,Brussels Smart City Deployment,50.858748,4.362219
+BICS-OEM-00033,OEM,Connected Vehicle Module,LTE-M,iSIM,Belgium,Leuven,imec Research Campus,50.877061,4.686555
+BICS-OEM-00034,OEM,Industrial Gateway,5G,eSIM,Belgium,Mons,Digital Innovation Hub Mons,50.448044,3.94543
+BICS-OEM-00035,OEM,Edge Compute Node,5G,iSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.051215,4.489592
+BICS-OEM-00036,OEM,Industrial Gateway,LTE-M,Traditional SIM,Belgium,Mechelen,Telenet HQ Connected Home,51.061566,4.470079
+BICS-OEM-00037,OEM,Connected Vehicle Module,5G,Traditional SIM,Belgium,Ghent,Ghent IoT Living Lab,51.054574,3.736958
+BICS-OEM-00038,OEM,Connected Vehicle Module,5G,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.845928,4.367493
+BICS-OEM-00039,OEM,Smart Meter,LTE-M,Traditional SIM,Belgium,Antwerp,Antwerp Connected Fleet,51.219144,4.411127
+BICS-OEM-00040,OEM,Industrial Gateway,5G,eSIM,Belgium,Mons,Digital Innovation Hub Mons,50.472241,3.955706
+BICS-OEM-00041,OEM,Connected Vehicle Module,4G,Traditional SIM,Belgium,Ghent,Ghent IoT Living Lab,51.036942,3.727626
+BICS-OEM-00042,OEM,Edge Compute Node,4G,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.880173,4.378445
+BICS-OEM-00043,OEM,Smart Meter,LTE-M,iSIM,Belgium,Ghent,Ghent IoT Living Lab,51.044495,3.736139
+BICS-OEM-00044,OEM,Smart Meter,4G,Traditional SIM,Belgium,Ghent,Ghent IoT Living Lab,51.04566,3.718655
+BICS-OEM-00045,OEM,Smart Display,LTE-M,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.055718,3.733542
+BICS-OEM-00046,OEM,Smart Meter,4G,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.03924,3.729707
+BICS-OEM-00047,OEM,Smart Meter,LTE-M,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.041288,3.719136
+BICS-OEM-00048,OEM,Smart Display,5G,iSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.225733,4.414902
+BICS-OEM-00049,OEM,Connected Vehicle Module,NB-IoT,Traditional SIM,Belgium,Mons,Digital Innovation Hub Mons,50.452066,3.947461
+BICS-OEM-00050,OEM,Industrial Gateway,LTE-M,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.861647,4.351243
+BICS-OEM-00051,OEM,Smart Meter,4G,iSIM,Belgium,Ghent,Ghent IoT Living Lab,51.041974,3.721349
+BICS-OEM-00052,OEM,Smart Meter,NB-IoT,eSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.03627,4.497398
+BICS-OEM-00053,OEM,Edge Compute Node,4G,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.244334,4.397212
+BICS-OEM-00054,OEM,Wearable Device,4G,Traditional SIM,Belgium,Mechelen,Telenet HQ Connected Home,51.059457,4.456286
+BICS-OEM-00055,OEM,Smart Display,LTE-M,eSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.029635,4.476826
+BICS-OEM-00056,OEM,Connected Vehicle Module,LTE-M,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.87055,4.33886
+BICS-OEM-00057,OEM,Industrial Gateway,LTE-M,eSIM,Belgium,Leuven,imec Research Campus,50.902595,4.699855
+BICS-OEM-00058,OEM,Wearable Device,LTE-M,eSIM,Belgium,Leuven,imec Research Campus,50.89277,4.729101
+BICS-OEM-00059,OEM,Connected Vehicle Module,NB-IoT,Traditional SIM,Belgium,Brussels,Brussels Smart City Deployment,50.858523,4.374735
+BICS-OEM-00060,OEM,Edge Compute Node,4G,iSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.038272,4.473166
+BICS-OEM-00061,OEM,Smart Meter,5G,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.040699,3.722562
+BICS-OEM-00062,OEM,Smart Meter,4G,iSIM,Belgium,Ghent,Ghent IoT Living Lab,51.049312,3.723726
+BICS-OEM-00063,OEM,Connected Vehicle Module,5G,Traditional SIM,Belgium,Mechelen,Telenet HQ Connected Home,51.040895,4.467617
+BICS-OEM-00064,OEM,Smart Display,5G,eSIM,Belgium,Mons,Digital Innovation Hub Mons,50.444486,3.976068
+BICS-OEM-00065,OEM,Industrial Gateway,5G,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.213795,4.416119
+BICS-OEM-00066,OEM,Wearable Device,LTE-M,eSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.039471,4.483827
+BICS-OEM-00067,OEM,Smart Display,LTE-M,Traditional SIM,Belgium,Mons,Digital Innovation Hub Mons,50.451422,3.956818
+BICS-OEM-00068,OEM,Connected Vehicle Module,LTE-M,eSIM,Belgium,Mons,Digital Innovation Hub Mons,50.44813,3.944429
+BICS-OEM-00069,OEM,Connected Vehicle Module,5G,eSIM,Belgium,Mons,Digital Innovation Hub Mons,50.443412,3.969933
+BICS-OEM-00070,OEM,Connected Vehicle Module,4G,eSIM,Belgium,Mons,Digital Innovation Hub Mons,50.44437,3.987136
+BICS-OEM-00071,OEM,Edge Compute Node,LTE-M,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.030522,3.734334
+BICS-OEM-00072,OEM,Industrial Gateway,4G,Traditional SIM,Belgium,Antwerp,Antwerp Connected Fleet,51.234028,4.398498
+BICS-OEM-00073,OEM,Industrial Gateway,5G,eSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.057809,4.457143
+BICS-OEM-00074,OEM,Smart Meter,4G,eSIM,Belgium,Leuven,imec Research Campus,50.872053,4.692948
+BICS-OEM-00075,OEM,Smart Meter,NB-IoT,eSIM,Belgium,Mons,Digital Innovation Hub Mons,50.435246,3.956858
+BICS-OEM-00076,OEM,Connected Vehicle Module,4G,eSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.014448,4.482362
+BICS-OEM-00077,OEM,Edge Compute Node,5G,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.039328,3.702034
+BICS-OEM-00078,OEM,Connected Vehicle Module,4G,eSIM,Belgium,Mons,Digital Innovation Hub Mons,50.442789,3.955026
+BICS-OEM-00079,OEM,Wearable Device,LTE-M,iSIM,Belgium,Leuven,imec Research Campus,50.888715,4.702323
+BICS-OEM-00080,OEM,Smart Display,4G,eSIM,Belgium,Leuven,imec Research Campus,50.859539,4.707116
+BICS-OEM-00081,OEM,Edge Compute Node,5G,Traditional SIM,Belgium,Leuven,imec Research Campus,50.893708,4.713836
+BICS-OEM-00082,OEM,Wearable Device,LTE-M,Traditional SIM,Belgium,Mons,Digital Innovation Hub Mons,50.435838,3.961911
+BICS-OEM-00083,OEM,Industrial Gateway,5G,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.852192,4.379635
+BICS-OEM-00084,OEM,Connected Vehicle Module,LTE-M,eSIM,Belgium,Mons,Digital Innovation Hub Mons,50.428872,3.983753
+BICS-OEM-00085,OEM,Edge Compute Node,4G,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.218993,4.405872
+BICS-OEM-00086,OEM,Industrial Gateway,LTE-M,Traditional SIM,Belgium,Leuven,imec Research Campus,50.881348,4.680467
+BICS-OEM-00087,OEM,Industrial Gateway,NB-IoT,Traditional SIM,Belgium,Mechelen,Telenet HQ Connected Home,51.02461,4.47166
+BICS-OEM-00088,OEM,Connected Vehicle Module,4G,Traditional SIM,Belgium,Leuven,imec Research Campus,50.899541,4.716561
+BICS-OEM-00089,OEM,Smart Display,NB-IoT,iSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.224732,4.394956
+BICS-OEM-00090,OEM,Industrial Gateway,LTE-M,eSIM,Belgium,Mons,Digital Innovation Hub Mons,50.427192,3.960544
+BICS-OEM-00091,OEM,Wearable Device,4G,Traditional SIM,Belgium,Ghent,Ghent IoT Living Lab,51.079395,3.716842
+BICS-OEM-00092,OEM,Edge Compute Node,4G,eSIM,Belgium,Mons,Digital Innovation Hub Mons,50.442469,3.920883
+BICS-OEM-00093,OEM,Edge Compute Node,4G,eSIM,Belgium,Leuven,imec Research Campus,50.876131,4.708953
+BICS-OEM-00094,OEM,Industrial Gateway,4G,iSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.038139,4.502573
+BICS-OEM-00095,OEM,Connected Vehicle Module,4G,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.841373,4.324648
+BICS-OEM-00096,OEM,Wearable Device,NB-IoT,Traditional SIM,Belgium,Antwerp,Antwerp Connected Fleet,51.251564,4.393754
+BICS-OEM-00097,OEM,Wearable Device,5G,iSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.200467,4.38651
+BICS-OEM-00098,OEM,Edge Compute Node,4G,eSIM,Belgium,Leuven,imec Research Campus,50.882619,4.70592
+BICS-OEM-00099,OEM,Connected Vehicle Module,LTE-M,iSIM,Belgium,Leuven,imec Research Campus,50.888271,4.722311
+BICS-OEM-00100,OEM,Connected Vehicle Module,4G,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.057783,3.725573
+BICS-OEM-00101,OEM,Industrial Gateway,LTE-M,Traditional SIM,Belgium,Mechelen,Telenet HQ Connected Home,51.03877,4.471106
+BICS-OEM-00102,OEM,Wearable Device,5G,Traditional SIM,Belgium,Brussels,Brussels Smart City Deployment,50.856953,4.354181
+BICS-OEM-00103,OEM,Wearable Device,4G,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.048123,3.723792
+BICS-OEM-00104,OEM,Edge Compute Node,LTE-M,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.21025,4.388579
+BICS-OEM-00105,OEM,Smart Meter,NB-IoT,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.222124,4.364787
+BICS-OEM-00106,OEM,Edge Compute Node,LTE-M,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.855527,4.375692
+BICS-OEM-00107,OEM,Connected Vehicle Module,4G,iSIM,Belgium,Ghent,Ghent IoT Living Lab,51.032362,3.715788
+BICS-OEM-00108,OEM,Wearable Device,5G,Traditional SIM,Belgium,Mons,Digital Innovation Hub Mons,50.446658,3.967433
+BICS-OEM-00109,OEM,Wearable Device,LTE-M,eSIM,Belgium,Leuven,imec Research Campus,50.899852,4.665768
+BICS-OEM-00110,OEM,Smart Display,LTE-M,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.215589,4.409546
+BICS-OEM-00111,OEM,Smart Meter,4G,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.051326,3.706389
+BICS-OEM-00112,OEM,Connected Vehicle Module,NB-IoT,iSIM,Belgium,Leuven,imec Research Campus,50.898918,4.651033
+BICS-OEM-00113,OEM,Smart Meter,5G,eSIM,Belgium,Leuven,imec Research Campus,50.891236,4.675577
+BICS-OEM-00114,OEM,Smart Meter,4G,iSIM,Belgium,Brussels,Brussels Smart City Deployment,50.866505,4.362772
+BICS-OEM-00115,OEM,Smart Display,4G,Traditional SIM,Belgium,Ghent,Ghent IoT Living Lab,51.048504,3.720122
+BICS-OEM-00116,OEM,Connected Vehicle Module,4G,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.04665,3.719497
+BICS-OEM-00117,OEM,Smart Meter,4G,iSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.028395,4.469687
+BICS-OEM-00118,OEM,Industrial Gateway,LTE-M,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.853633,4.389786
+BICS-OEM-00119,OEM,Wearable Device,4G,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.240599,4.432826
+BICS-OEM-00120,OEM,Smart Meter,NB-IoT,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.873234,4.368994
+BICS-OEM-00121,OEM,Connected Vehicle Module,LTE-M,Traditional SIM,Belgium,Mechelen,Telenet HQ Connected Home,51.027524,4.524825
+BICS-OEM-00122,OEM,Industrial Gateway,5G,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.224314,4.402607
+BICS-OEM-00123,OEM,Wearable Device,NB-IoT,Traditional SIM,Belgium,Brussels,Brussels Smart City Deployment,50.845909,4.361411
+BICS-OEM-00124,OEM,Connected Vehicle Module,LTE-M,eSIM,Belgium,Leuven,imec Research Campus,50.864787,4.726726
+BICS-OEM-00125,OEM,Smart Meter,NB-IoT,Traditional SIM,Belgium,Brussels,Brussels Smart City Deployment,50.895876,4.349221
+BICS-OEM-00126,OEM,Smart Display,4G,eSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.035052,4.475828
+BICS-OEM-00127,OEM,Edge Compute Node,4G,eSIM,Belgium,Leuven,imec Research Campus,50.903195,4.707206
+BICS-OEM-00128,OEM,Wearable Device,NB-IoT,eSIM,Belgium,Leuven,imec Research Campus,50.899325,4.68961
+BICS-OEM-00129,OEM,Industrial Gateway,4G,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.21317,4.3845
+BICS-OEM-00130,OEM,Edge Compute Node,4G,iSIM,Belgium,Leuven,imec Research Campus,50.872636,4.697827
+BICS-OEM-00131,OEM,Smart Meter,4G,Traditional SIM,Belgium,Ghent,Ghent IoT Living Lab,51.040104,3.705984
+BICS-OEM-00132,OEM,Smart Meter,4G,Traditional SIM,Belgium,Mons,Digital Innovation Hub Mons,50.448854,3.9311
+BICS-OEM-00133,OEM,Smart Display,NB-IoT,Traditional SIM,Belgium,Mons,Digital Innovation Hub Mons,50.482372,3.981747
+BICS-OEM-00134,OEM,Smart Meter,NB-IoT,iSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.212167,4.397287
+BICS-OEM-00135,OEM,Industrial Gateway,LTE-M,eSIM,Belgium,Mons,Digital Innovation Hub Mons,50.472768,3.970452
+BICS-OEM-00136,OEM,Connected Vehicle Module,LTE-M,iSIM,Belgium,Brussels,Brussels Smart City Deployment,50.849473,4.360524
+BICS-OEM-00137,OEM,Smart Display,LTE-M,eSIM,Belgium,Mons,Digital Innovation Hub Mons,50.475642,3.965804
+BICS-OEM-00138,OEM,Edge Compute Node,4G,eSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.025086,4.466263
+BICS-OEM-00139,OEM,Edge Compute Node,4G,Traditional SIM,Belgium,Ghent,Ghent IoT Living Lab,51.035797,3.736154
+BICS-OEM-00140,OEM,Connected Vehicle Module,5G,Traditional SIM,Belgium,Ghent,Ghent IoT Living Lab,51.066217,3.722597
+BICS-OEM-00141,OEM,Smart Meter,NB-IoT,eSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.052146,4.487351
+BICS-OEM-00142,OEM,Smart Display,4G,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.068843,3.699757
+BICS-OEM-00143,OEM,Smart Display,NB-IoT,Traditional SIM,Belgium,Mechelen,Telenet HQ Connected Home,51.025264,4.455301
+BICS-OEM-00144,OEM,Smart Display,LTE-M,eSIM,Belgium,Leuven,imec Research Campus,50.897548,4.698498
+BICS-OEM-00145,OEM,Industrial Gateway,4G,iSIM,Belgium,Mons,Digital Innovation Hub Mons,50.457885,3.953439
+BICS-OEM-00146,OEM,Connected Vehicle Module,4G,eSIM,Belgium,Leuven,imec Research Campus,50.877488,4.702845
+BICS-OEM-00147,OEM,Connected Vehicle Module,5G,Traditional SIM,Belgium,Antwerp,Antwerp Connected Fleet,51.224418,4.392901
+BICS-OEM-00148,OEM,Smart Display,4G,iSIM,Belgium,Brussels,Brussels Smart City Deployment,50.852932,4.367716
+BICS-OEM-00149,OEM,Edge Compute Node,NB-IoT,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.871014,4.38274
+BICS-OEM-00150,OEM,Edge Compute Node,NB-IoT,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.886042,4.385703
+BICS-OEM-00151,OEM,Wearable Device,5G,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.228579,4.39191
+BICS-OEM-00152,OEM,Edge Compute Node,NB-IoT,eSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.013784,4.485542
+BICS-OEM-00153,OEM,Connected Vehicle Module,4G,iSIM,Belgium,Leuven,imec Research Campus,50.867096,4.710287
+BICS-OEM-00154,OEM,Wearable Device,5G,eSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.031242,4.488927
+BICS-OEM-00155,OEM,Industrial Gateway,NB-IoT,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.022697,3.726686
+BICS-OEM-00156,OEM,Wearable Device,5G,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.23608,4.407499
+BICS-OEM-00157,OEM,Smart Meter,5G,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.879924,4.347117
+BICS-OEM-00158,OEM,Connected Vehicle Module,4G,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.83966,4.343218
+BICS-OEM-00159,OEM,Edge Compute Node,NB-IoT,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.860607,4.369427
+BICS-OEM-00160,OEM,Edge Compute Node,5G,iSIM,Belgium,Leuven,imec Research Campus,50.895986,4.71788
+BICS-OEM-00161,OEM,Smart Display,LTE-M,Traditional SIM,Belgium,Mons,Digital Innovation Hub Mons,50.457182,3.940937
+BICS-OEM-00162,OEM,Wearable Device,NB-IoT,Traditional SIM,Belgium,Antwerp,Antwerp Connected Fleet,51.240397,4.378165
+BICS-OEM-00163,OEM,Edge Compute Node,LTE-M,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.862419,4.367457
+BICS-OEM-00164,OEM,Smart Meter,5G,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.856694,4.384116
+BICS-OEM-00165,OEM,Smart Display,LTE-M,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.030824,3.709544
+BICS-OEM-00166,OEM,Connected Vehicle Module,4G,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.051418,3.728054
+BICS-OEM-00167,OEM,Connected Vehicle Module,5G,Traditional SIM,Belgium,Leuven,imec Research Campus,50.862453,4.679734
+BICS-OEM-00168,OEM,Smart Display,LTE-M,iSIM,Belgium,Brussels,Brussels Smart City Deployment,50.816727,4.344173
+BICS-OEM-00169,OEM,Edge Compute Node,5G,eSIM,Belgium,Ghent,Ghent IoT Living Lab,51.062095,3.701195
+BICS-OEM-00170,OEM,Connected Vehicle Module,LTE-M,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.830724,4.349464
+BICS-OEM-00171,OEM,Smart Display,4G,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.845233,4.362637
+BICS-OEM-00172,OEM,Edge Compute Node,NB-IoT,Traditional SIM,Belgium,Brussels,Brussels Smart City Deployment,50.85484,4.362881
+BICS-OEM-00173,OEM,Wearable Device,LTE-M,iSIM,Belgium,Brussels,Brussels Smart City Deployment,50.837904,4.351347
+BICS-OEM-00174,OEM,Smart Display,LTE-M,eSIM,Belgium,Mons,Digital Innovation Hub Mons,50.461242,3.932464
+BICS-OEM-00175,OEM,Smart Display,5G,Traditional SIM,Belgium,Ghent,Ghent IoT Living Lab,51.040021,3.718532
+BICS-OEM-00176,OEM,Connected Vehicle Module,4G,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.863026,4.35474
+BICS-OEM-00177,OEM,Connected Vehicle Module,LTE-M,Traditional SIM,Belgium,Brussels,Brussels Smart City Deployment,50.85063,4.346718
+BICS-OEM-00178,OEM,Edge Compute Node,5G,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.242084,4.392445
+BICS-OEM-00179,OEM,Smart Meter,5G,Traditional SIM,Belgium,Leuven,imec Research Campus,50.868267,4.721176
+BICS-OEM-00180,OEM,Connected Vehicle Module,LTE-M,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.875492,4.361061
+BICS-OEM-00181,OEM,Edge Compute Node,LTE-M,eSIM,Belgium,Brussels,Brussels Smart City Deployment,50.841209,4.362805
+BICS-OEM-00182,OEM,Smart Meter,4G,iSIM,Belgium,Leuven,imec Research Campus,50.910598,4.687044
+BICS-OEM-00183,OEM,Smart Meter,4G,Traditional SIM,Belgium,Antwerp,Antwerp Connected Fleet,51.227462,4.398817
+BICS-OEM-00184,OEM,Industrial Gateway,5G,Traditional SIM,Belgium,Ghent,Ghent IoT Living Lab,51.049033,3.70135
+BICS-OEM-00185,OEM,Smart Meter,4G,eSIM,Belgium,Leuven,imec Research Campus,50.87813,4.703973
+BICS-OEM-00186,OEM,Wearable Device,LTE-M,iSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.215781,4.359642
+BICS-OEM-00187,OEM,Industrial Gateway,5G,eSIM,Belgium,Antwerp,Antwerp Connected Fleet,51.23212,4.382373
+BICS-OEM-00188,OEM,Edge Compute Node,4G,eSIM,Belgium,Leuven,imec Research Campus,50.862308,4.680768
+BICS-OEM-00189,OEM,Smart Display,4G,Traditional SIM,Belgium,Ghent,Ghent IoT Living Lab,51.056134,3.723709
+BICS-OEM-00190,OEM,Smart Meter,4G,eSIM,Belgium,Mons,Digital Innovation Hub Mons,50.441997,3.967931
+BICS-OEM-00191,OEM,Smart Display,4G,Traditional SIM,Belgium,Brussels,Brussels Smart City Deployment,50.823703,4.36186
+BICS-OEM-00192,OEM,Connected Vehicle Module,5G,eSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.029663,4.489047
+BICS-OEM-00193,OEM,Wearable Device,5G,eSIM,Belgium,Leuven,imec Research Campus,50.861069,4.695458
+BICS-OEM-00194,OEM,Smart Meter,NB-IoT,eSIM,Belgium,Leuven,imec Research Campus,50.869691,4.700482
+BICS-OEM-00195,OEM,Industrial Gateway,4G,Traditional SIM,Belgium,Antwerp,Antwerp Connected Fleet,51.221865,4.403805
+BICS-OEM-00196,OEM,Connected Vehicle Module,4G,Traditional SIM,Belgium,Leuven,imec Research Campus,50.886232,4.714299
+BICS-OEM-00197,OEM,Wearable Device,LTE-M,eSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.012081,4.502809
+BICS-OEM-00198,OEM,Edge Compute Node,LTE-M,Traditional SIM,Belgium,Brussels,Brussels Smart City Deployment,50.834429,4.358371
+BICS-OEM-00199,OEM,Industrial Gateway,5G,eSIM,Belgium,Mechelen,Telenet HQ Connected Home,51.015947,4.452655
+BICS-OEM-00200,OEM,Smart Display,4G,Traditional SIM,Belgium,Mons,Digital Innovation Hub Mons,50.456268,3.950983
