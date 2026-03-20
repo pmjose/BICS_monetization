@@ -126,24 +126,46 @@ CREATE TABLE IF NOT EXISTS BICS_TELCO.IOT_DATA.BICS_IOT_TELEMETRY (
 COMMENT = 'IoT telemetry readings — ~150,000 records, Jan 2026';
 
 ------------------------------------------------------------------------
--- 9. LOAD DATA FROM GITHUB REPO
+-- 9. COPY DATA FILES FROM GIT REPO TO INTERNAL STAGE, THEN LOAD
 ------------------------------------------------------------------------
--- Mobility data (3 region files)
+-- Note: COPY INTO does not support Git Repository stages directly,
+-- so we first COPY FILES to the internal stage, then COPY INTO tables.
+
+-- 9a. Copy CSV files from git repo to internal stage
+COPY FILES
+    INTO @BICS_TELCO.MOBILITY_DATA.BICS_STREAMLIT_STAGE/data/
+    FROM @BICS_TELCO.MOBILITY_DATA.BICS_REPO/branches/main/bics_roaming_brussels_capital_jan2026.csv;
+
+COPY FILES
+    INTO @BICS_TELCO.MOBILITY_DATA.BICS_STREAMLIT_STAGE/data/
+    FROM @BICS_TELCO.MOBILITY_DATA.BICS_REPO/branches/main/bics_roaming_flanders_jan2026.csv;
+
+COPY FILES
+    INTO @BICS_TELCO.MOBILITY_DATA.BICS_STREAMLIT_STAGE/data/
+    FROM @BICS_TELCO.MOBILITY_DATA.BICS_REPO/branches/main/bics_roaming_wallonia_jan2026.csv;
+
+COPY FILES
+    INTO @BICS_TELCO.MOBILITY_DATA.BICS_STREAMLIT_STAGE/data/
+    FROM @BICS_TELCO.MOBILITY_DATA.BICS_REPO/branches/main/bics_iot_devices.csv;
+
+COPY FILES
+    INTO @BICS_TELCO.MOBILITY_DATA.BICS_STREAMLIT_STAGE/data/
+    FROM @BICS_TELCO.MOBILITY_DATA.BICS_REPO/branches/main/bics_iot_telemetry.csv;
+
+-- 9b. Load into tables from internal stage
 COPY INTO BICS_TELCO.MOBILITY_DATA.BICS_TELCO_MOBILITY_DATA
-    FROM @BICS_TELCO.MOBILITY_DATA.BICS_REPO/branches/main/
+    FROM @BICS_TELCO.MOBILITY_DATA.BICS_STREAMLIT_STAGE/data/
     FILE_FORMAT = BICS_TELCO.MOBILITY_DATA.BICS_CSV_FORMAT
     PATTERN     = '.*bics_roaming.*[.]csv'
     ON_ERROR    = ABORT_STATEMENT;
 
--- IoT device registry
 COPY INTO BICS_TELCO.IOT_DATA.BICS_IOT_DEVICES
-    FROM @BICS_TELCO.MOBILITY_DATA.BICS_REPO/branches/main/bics_iot_devices.csv
+    FROM @BICS_TELCO.MOBILITY_DATA.BICS_STREAMLIT_STAGE/data/bics_iot_devices.csv
     FILE_FORMAT = BICS_TELCO.MOBILITY_DATA.BICS_CSV_FORMAT
     ON_ERROR    = ABORT_STATEMENT;
 
--- IoT telemetry
 COPY INTO BICS_TELCO.IOT_DATA.BICS_IOT_TELEMETRY
-    FROM @BICS_TELCO.MOBILITY_DATA.BICS_REPO/branches/main/bics_iot_telemetry.csv
+    FROM @BICS_TELCO.MOBILITY_DATA.BICS_STREAMLIT_STAGE/data/bics_iot_telemetry.csv
     FILE_FORMAT = BICS_TELCO.MOBILITY_DATA.BICS_CSV_FORMAT
     ON_ERROR    = ABORT_STATEMENT;
 
