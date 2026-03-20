@@ -140,7 +140,7 @@ try:
         layers=[scatter],
         initial_view_state=view,
         tooltip=tooltip,
-        map_style="mapbox://styles/mapbox/dark-v11",
+        map_style="https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json",
     ))
 
     legend_items = STATUS_COLORS if color_by == "Status" else INDUSTRY_COLORS
