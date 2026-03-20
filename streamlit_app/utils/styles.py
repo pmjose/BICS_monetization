@@ -40,7 +40,15 @@ SIDEBAR_CSS = """
     [data-testid="stSidebar"] > div:first-child { position: relative; z-index: 1; }
     
     /* LOGO STYLING */
+    [data-testid="stSidebar"] [data-testid="stLogo"] {
+        max-width: 100% !important;
+        width: 100% !important;
+        padding: 0.5rem 1rem !important;
+    }
     [data-testid="stSidebar"] [data-testid="stLogo"] img {
+        max-height: 80px !important;
+        width: auto !important;
+        height: auto !important;
         border-radius: 12px !important;
         padding: 8px !important;
         background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%) !important;
