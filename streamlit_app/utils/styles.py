@@ -3,6 +3,8 @@ Shared styles and UI components for BICS Mobility Intelligence Dashboard.
 Centralizes CSS and common UI patterns to reduce duplication.
 """
 import streamlit as st
+import base64
+import os
 
 BICS_COLORS = {
     "navy": "#1E3A5F",
@@ -39,27 +41,7 @@ SIDEBAR_CSS = """
     }
     [data-testid="stSidebar"] > div:first-child { position: relative; z-index: 1; }
     
-    /* LOGO STYLING */
-    [data-testid="stLogo"] {
-        max-height: none !important;
-        height: auto !important;
-        padding: 0.75rem 1rem !important;
-    }
-    [data-testid="stLogo"] img {
-        max-height: 80px !important;
-        height: 80px !important;
-        width: auto !important;
-        object-fit: contain !important;
-        border-radius: 12px !important;
-        padding: 10px !important;
-        background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%) !important;
-        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3), 0 0 0 1px rgba(255, 255, 255, 0.1) !important;
-        transition: all 0.3s ease !important;
-    }
-    [data-testid="stLogo"] img:hover {
-        transform: scale(1.05);
-        box-shadow: 0 8px 30px rgba(8, 145, 178, 0.4), 0 0 0 2px rgba(8, 145, 178, 0.3) !important;
-    }
+    [data-testid="stLogo"] { display: none !important; }
     
     /* NAV LINKS */
     [data-testid="stSidebar"] a {
@@ -241,11 +223,39 @@ CARD_CSS = """
 """
 
 
+def _build_logo_css():
+    for path in ["logo.png", os.path.join(os.path.dirname(__file__), "..", "logo.png")]:
+        try:
+            with open(path, "rb") as f:
+                b64 = base64.b64encode(f.read()).decode()
+            return f"""<style>
+                [data-testid="stSidebar"] > div:first-child > div:first-child::before {{
+                    content: '' !important;
+                    display: block !important;
+                    width: 180px !important;
+                    height: 80px !important;
+                    margin: 1rem auto !important;
+                    background: url('data:image/png;base64,{b64}') center/contain no-repeat !important;
+                    background-color: #ffffff !important;
+                    border-radius: 12px !important;
+                    padding: 10px !important;
+                    box-sizing: border-box !important;
+                    box-shadow: 0 4px 20px rgba(0,0,0,0.3), 0 0 0 1px rgba(255,255,255,0.1) !important;
+                }}
+            </style>"""
+        except FileNotFoundError:
+            continue
+    return ""
+
+
 def render_common_styles():
     """Render shared sidebar and base styles. Call once per page."""
     st.html(SIDEBAR_CSS)
     st.html(PAGE_HEADER_CSS)
     st.html(CARD_CSS)
+    logo_css = _build_logo_css()
+    if logo_css:
+        st.html(logo_css)
 
 
 def render_page_header(title: str, subtitle: str = None):

@@ -4,8 +4,6 @@ import pandas as pd
 
 st.set_page_config(page_title="Market Intelligence | BICS", page_icon="logo.png", layout="wide")
 
-st.logo("logo.png")
-
 BICS_BLUE = "#1E3A5F"
 BICS_TEAL = "#0891B2"
 BICS_GOLD = "#D4AF37"
