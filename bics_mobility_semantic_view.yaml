@@ -1,0 +1,249 @@
+name: bics_mobility_analytics
+description: |
+  Semantic view for BICS Telco mobility and footfall analytics.
+  This data product provides aggregated, anonymized insights about 
+  population movement patterns across Belgium at H3 hexagon resolution.
+  
+  Data Coverage:
+  - Temporal: January 2026 (daily data at hourly granularity)
+  - Spatial: 236,842 unique H3 hexagons across Belgium
+  - Total Records: 4.2M+ aggregated data points
+  
+  Use Cases:
+  - Footfall and mobility pattern analysis
+  - Population density by demographics
+  - Dwell time analysis by location
+  - Visitor flow and catchment studies
+
+tables:
+  - name: BICS_TELCO_MOBILITY_DATA
+    description: |
+      Aggregated mobility data from BICS Telco network.
+      Each row represents activity at a specific H3 hexagon for a given hour,
+      segmented by subscriber demographics. Data is privacy-safe and anonymized.
+    base_table:
+      database: BICS_TELCO
+      schema: MOBILITY_DATA
+      table: BICS_TELCO_MOBILITY_DATA
+    
+    dimensions:
+      - name: HEXAGON_ID
+        description: |
+          H3 hexagon identifier at resolution 8 (~460m edge length).
+          Use this for geospatial analysis and mapping.
+          Can be converted to lat/lng using H3 library functions.
+        expr: HEXAGON_ID
+        data_type: VARCHAR
+        sample_values:
+          - "8953a92f063ffff"
+          - "895202cd94fffff"
+      
+      - name: DATE
+        description: |
+          Calendar date of the mobility observation.
+          Range: 2026-01-01 to 2026-01-31
+        expr: DATE
+        data_type: DATE
+        sample_values:
+          - "2026-01-05"
+          - "2026-01-15"
+      
+      - name: HOUR
+        description: |
+          Hour of day (0-23) when the observation was recorded.
+          Use for time-of-day analysis and peak hour identification.
+        expr: HOUR
+        data_type: NUMBER
+        sample_values:
+          - "9"
+          - "18"
+      
+      - name: SUBSCRIPTION_TYPE
+        description: |
+          Type of mobile subscription.
+          Values: Prepaid, Postpaid
+          Useful for segmenting by subscriber type.
+        expr: SUBSCRIPTION_TYPE
+        data_type: VARCHAR
+        sample_values:
+          - "Prepaid"
+          - "Postpaid"
+      
+      - name: NATIONALITY
+        description: |
+          Nationality of the subscriber cohort.
+          Values: Belgian, French, Dutch, Moroccan, Turkish, Italian, 
+          Romanian, Polish, German, Portuguese, Other
+          Useful for understanding visitor demographics and tourism patterns.
+        expr: NATIONALITY
+        data_type: VARCHAR
+        sample_values:
+          - "Belgian"
+          - "French"
+          - "Dutch"
+      
+      - name: GENDER
+        description: |
+          Gender of the subscriber cohort.
+          Values: Male, Female
+        expr: GENDER
+        data_type: VARCHAR
+        sample_values:
+          - "Male"
+          - "Female"
+      
+      - name: AGE_GROUP
+        description: |
+          Age bracket of the subscriber cohort.
+          Values: 18-24, 25-34, 35-44, 45-54, 55+
+          Useful for demographic segmentation and targeting.
+        expr: AGE_GROUP
+        data_type: VARCHAR
+        sample_values:
+          - "25-34"
+          - "35-44"
+      
+      - name: SUBSCRIBER_HOME_CITY
+        description: |
+          Home city of the subscriber (based on registration).
+          Major Belgian cities: Brussels, Antwerp, Ghent, Charleroi, Liege, 
+          Bruges, Namur, Leuven, Mons, Mechelen, Hasselt, Kortrijk, Ostend, Arlon
+          Useful for origin-destination analysis and visitor flow studies.
+        expr: SUBSCRIBER_HOME_CITY
+        data_type: VARCHAR
+        sample_values:
+          - "Brussels"
+          - "Antwerp"
+          - "Ghent"
+    
+    measures:
+      - name: AVG_DWELL_TIME
+        description: |
+          Average time (in minutes) subscribers spent in the hexagon.
+          This is the mean staying duration for the demographic cohort.
+          Use for dwell time analysis and engagement metrics.
+        expr: AVG_STAYING_DURATION_MIN
+        default_aggregation: AVG
+        synonyms:
+          - "dwell time"
+          - "staying duration"
+          - "time spent"
+      
+      - name: TOTAL_OBSERVATIONS
+        description: |
+          Count of aggregated observation records.
+          Use as a proxy for relative population density.
+          Higher counts indicate more activity at that location/time.
+        expr: "1"
+        default_aggregation: COUNT
+        synonyms:
+          - "footfall"
+          - "visitor count"
+          - "activity"
+      
+      - name: TOTAL_DWELL_MINUTES
+        description: |
+          Sum of average dwell times for volume-weighted analysis.
+          Useful when comparing total engagement across locations.
+        expr: AVG_STAYING_DURATION_MIN
+        default_aggregation: SUM
+      
+      - name: MAX_DWELL_TIME
+        description: |
+          Maximum dwell time observed in a group.
+          Useful for identifying high-engagement patterns.
+        expr: AVG_STAYING_DURATION_MIN
+        default_aggregation: MAX
+      
+      - name: UNIQUE_HEXAGONS
+        description: |
+          Count of distinct hexagon locations.
+          Use to measure geographic spread or coverage.
+        expr: HEXAGON_ID
+        default_aggregation: COUNT_DISTINCT
+        synonyms:
+          - "locations"
+          - "areas covered"
+
+custom_instructions: |
+  You are a mobility analytics expert helping users analyze BICS Telco's 
+  aggregated footfall and mobility data for Belgium.
+  
+  Key Guidelines:
+  1. When analyzing footfall or visitor patterns, aggregate by HEXAGON_ID, DATE, and HOUR
+  2. For demographic analysis, group by NATIONALITY, AGE_GROUP, or GENDER
+  3. For origin-destination studies, use SUBSCRIBER_HOME_CITY as the origin
+  4. The data covers January 2026 - if users ask about other dates, inform them of the data range
+  5. AVG_STAYING_DURATION_MIN is already an average - when aggregating further, use AVG not SUM
+  6. HEXAGON_ID uses H3 resolution 8 (~460m cells) - suitable for neighborhood-level analysis
+  
+  Common Analysis Patterns:
+  - Peak hours: GROUP BY HOUR, aggregate TOTAL_OBSERVATIONS
+  - Demographic breakdown: GROUP BY NATIONALITY, AGE_GROUP, GENDER
+  - Daily trends: GROUP BY DATE, aggregate metrics
+  - Location comparison: GROUP BY HEXAGON_ID or filter by specific hexagons
+  
+  Privacy Notes:
+  - This is aggregated, anonymized data - no individual subscriber data is available
+  - Minimum aggregation thresholds apply to protect privacy
+  
+  Time and Date Handling:
+  - You CAN answer general questions about what time it is or today's date
+  - Data coverage is January 2026 only - politely decline questions about other time periods
+  
+  Scope Boundaries:
+  - ONLY answer questions that can be answered using the mobility and footfall data
+  - For questions outside your data scope, respond: "I can only answer questions about mobility and footfall patterns in Belgium for January 2026. Is there something specific about visitor traffic, demographics, or dwell times I can help you with?"
+
+verified_queries:
+  - name: "daily_footfall"
+    question: "What is the total footfall by day?"
+    sql: |
+      SELECT DATE, COUNT(*) as TOTAL_OBSERVATIONS
+      FROM BICS_TELCO.MOBILITY_DATA.BICS_TELCO_MOBILITY_DATA
+      GROUP BY DATE
+      ORDER BY DATE
+  
+  - name: "hourly_pattern"
+    question: "What are the busiest hours of the day?"
+    sql: |
+      SELECT HOUR, COUNT(*) as TOTAL_OBSERVATIONS
+      FROM BICS_TELCO.MOBILITY_DATA.BICS_TELCO_MOBILITY_DATA
+      GROUP BY HOUR
+      ORDER BY TOTAL_OBSERVATIONS DESC
+  
+  - name: "nationality_breakdown"
+    question: "What is the breakdown by nationality?"
+    sql: |
+      SELECT NATIONALITY, COUNT(*) as TOTAL_OBSERVATIONS, 
+             AVG(AVG_STAYING_DURATION_MIN) as AVG_DWELL_TIME
+      FROM BICS_TELCO.MOBILITY_DATA.BICS_TELCO_MOBILITY_DATA
+      GROUP BY NATIONALITY
+      ORDER BY TOTAL_OBSERVATIONS DESC
+  
+  - name: "city_origin"
+    question: "Where do visitors come from by home city?"
+    sql: |
+      SELECT SUBSCRIBER_HOME_CITY, COUNT(*) as VISITOR_COUNT
+      FROM BICS_TELCO.MOBILITY_DATA.BICS_TELCO_MOBILITY_DATA
+      GROUP BY SUBSCRIBER_HOME_CITY
+      ORDER BY VISITOR_COUNT DESC
+  
+  - name: "age_demographics"
+    question: "What is the age distribution of visitors?"
+    sql: |
+      SELECT AGE_GROUP, COUNT(*) as TOTAL_OBSERVATIONS,
+             AVG(AVG_STAYING_DURATION_MIN) as AVG_DWELL_TIME
+      FROM BICS_TELCO.MOBILITY_DATA.BICS_TELCO_MOBILITY_DATA
+      GROUP BY AGE_GROUP
+      ORDER BY AGE_GROUP
+  
+  - name: "subscription_analysis"
+    question: "How does behavior differ between prepaid and postpaid subscribers?"
+    sql: |
+      SELECT SUBSCRIPTION_TYPE, 
+             COUNT(*) as TOTAL_OBSERVATIONS,
+             AVG(AVG_STAYING_DURATION_MIN) as AVG_DWELL_TIME,
+             COUNT(DISTINCT HEXAGON_ID) as UNIQUE_LOCATIONS
+      FROM BICS_TELCO.MOBILITY_DATA.BICS_TELCO_MOBILITY_DATA
+      GROUP BY SUBSCRIPTION_TYPE
