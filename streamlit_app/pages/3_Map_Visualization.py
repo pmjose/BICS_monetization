@@ -8,7 +8,7 @@ from utils.styles import render_common_styles, render_page_header
 
 st.set_page_config(page_title="Map Visualization | BICS", page_icon=":material/map:", layout="wide")
 
-st.logo("logo.png")
+st.sidebar.image("logo.png", width=200)
 render_common_styles()
 render_page_header("Map Visualization", "H3 hexagon visualization of foot traffic density")
 

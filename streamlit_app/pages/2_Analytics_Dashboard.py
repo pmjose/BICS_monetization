@@ -9,7 +9,7 @@ from utils.styles import render_common_styles, render_page_header
 
 st.set_page_config(page_title="Analytics Dashboard | BICS", page_icon=":material/bar_chart:", layout="wide")
 
-st.logo("logo.png")
+st.sidebar.image("logo.png", width=200)
 render_common_styles()
 
 st.html("""

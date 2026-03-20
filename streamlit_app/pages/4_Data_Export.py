@@ -4,7 +4,7 @@ from utils.styles import render_common_styles, render_page_header
 
 st.set_page_config(page_title="Data Export | BICS", page_icon=":material/download:", layout="wide")
 
-st.logo("logo.png")
+st.sidebar.image("logo.png", width=200)
 render_common_styles()
 render_page_header("Data Export", "Select and download mobility data packages")
 
